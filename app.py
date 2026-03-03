@@ -36,9 +36,7 @@ if os.path.exists(MODEL_PATH):
     model.model.eval()
 
 # MediaPipe
-import mediapipe.python.solutions.holistic as mp_holistic_module
-import mediapipe.python.solutions.drawing_utils as mp_drawing
-mp_holistic = mp_holistic_module
+mp_holistic = mp.solutions.holistic
 
 @app.get("/")
 async def root():
