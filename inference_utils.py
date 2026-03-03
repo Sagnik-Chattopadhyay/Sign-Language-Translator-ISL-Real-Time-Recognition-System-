@@ -43,7 +43,14 @@ class SignLanguageModel:
             model.to(self.device)
             return model
             
-        latest = max(checkpoints, key=lambda x: int(x.split('_')[2].split('.')[0]))
+        # Safely extract epoch number or default to 0 for deployment models like "stgcn_model.pth"
+        def get_epoch(filename):
+            try:
+                return int(filename.split('_')[-1].split('.')[0])
+            except ValueError:
+                return 0
+                
+        latest = max(checkpoints, key=get_epoch)
         model_path = os.path.join(self.checkpoint_dir, latest)
         
         model.load_state_dict(torch.load(model_path, map_location=self.device))
