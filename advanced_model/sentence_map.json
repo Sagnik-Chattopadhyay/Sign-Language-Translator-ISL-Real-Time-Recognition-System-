@@ -1,0 +1,854 @@
+{
+    "vocab": [
+        "A LOT",
+        "ABUSE",
+        "AFRAID",
+        "AGREE",
+        "ALL",
+        "ANGRY",
+        "ANY",
+        "ANYTHING",
+        "APPRECIATE",
+        "BAD",
+        "BEAUTIFUL",
+        "BECOME",
+        "BED",
+        "BORED",
+        "BRING",
+        "CHAT",
+        "CLASS",
+        "COLD",
+        "COLLEGE_SCHOOL",
+        "COMB",
+        "COME",
+        "CONGRATULATIONS",
+        "CRYING",
+        "DARE",
+        "DIFFERENCE",
+        "DILEMMA",
+        "DISAPPOINTED",
+        "DO",
+        "DON'T CARE",
+        "ENJOY",
+        "FAVOUR",
+        "FEVER",
+        "FINE",
+        "FOOD",
+        "FREE",
+        "FRIEND",
+        "FROM",
+        "GLASS",
+        "GO",
+        "GOOD",
+        "GOT",
+        "GRATEFUL",
+        "HAD",
+        "HAPPENED",
+        "HAPPY",
+        "HEAR",
+        "HEART",
+        "HELLO_HI",
+        "HELP",
+        "HIDING",
+        "HOW",
+        "HUNGRY",
+        "HURT",
+        "I_ME_MINE_MY",
+        "KIND",
+        "KNOW",
+        "LEAVE",
+        "LIGHT",
+        "LIKE",
+        "LIKE_LOVE",
+        "MAKE",
+        "MEAN IT",
+        "MEDICINE",
+        "MEET",
+        "NAME",
+        "NEED",
+        "NEVER",
+        "NICE",
+        "NOT",
+        "NOW",
+        "NUMBER",
+        "New folder",
+        "OLD_AGE",
+        "ON THE WAY",
+        "ONWARDS",
+        "OUTSIDE",
+        "PHONE",
+        "PLACE",
+        "PLANNED",
+        "PLEASE",
+        "POUR",
+        "PREPARE",
+        "PROMISE",
+        "REALLY",
+        "REPEAT",
+        "ROOM",
+        "SERVE",
+        "SHIRT",
+        "SITTING",
+        "SLEEP",
+        "SLOWER",
+        "SO MUCH",
+        "SOFTLY",
+        "SOME HOW",
+        "SOME MORE",
+        "SOME ONE",
+        "SOMETHING",
+        "SORRY",
+        "SPEAK",
+        "STOP",
+        "STUBBORN",
+        "SURE",
+        "TAKE CARE",
+        "TAKE TIME",
+        "TALK",
+        "TELL",
+        "THANK",
+        "THAT",
+        "THERE",
+        "THINGS",
+        "THINK",
+        "THIRSTY",
+        "THIS ONE",
+        "TIRED",
+        "TODAY",
+        "TRAIN",
+        "TRUST",
+        "TRUTH",
+        "TURN ON",
+        "UNDERSTAND",
+        "VERY",
+        "WANT",
+        "WATER",
+        "WEAR",
+        "WELCOME",
+        "WHAT",
+        "WHEN",
+        "WHERE",
+        "WHO",
+        "WORRY",
+        "YOU",
+        "HE",
+        "IS",
+        "GOING",
+        "INTO",
+        "THE",
+        "NO",
+        "TO",
+        "DONT",
+        "THIS",
+        "ARE",
+        "FOR",
+        "ME",
+        "CAN",
+        "I",
+        "YOUR",
+        "HAIR",
+        "COULD",
+        "A",
+        "HIM",
+        "BE",
+        "TAKE",
+        "IT",
+        "AND",
+        "CAME",
+        "BY",
+        "ON",
+        "WAY",
+        "SHE",
+        "MY",
+        "WOULD",
+        "COMING",
+        "HI",
+        "OLD",
+        "AM",
+        "(AGE)",
+        "OF",
+        "FEELING",
+        "SIR",
+        "IN",
+        "SO",
+        "SUFFERING",
+        "MEAN",
+        "ENJOYED",
+        "LOT",
+        "LOVE",
+        "SOMEHOW",
+        "ABOUT",
+        "WAS",
+        "STOPPED",
+        "SOME",
+        "ONE",
+        "DOES",
+        "CHATTING",
+        "WITH",
+        "LET",
+        "TIME",
+        "XXXXXXXX",
+        "WILL",
+        "MORE",
+        "SHALL",
+        "WE",
+        "CARE",
+        "YOURSELF",
+        "MUCH",
+        "TRY",
+        "TURN",
+        "OFF",
+        "DOING",
+        "DID",
+        "HAVE",
+        "CAREER",
+        "WHICH",
+        "COLLEGESCHOOL",
+        "WHY"
+    ],
+    "mapping": {
+        "He is going into the room": [
+            131,
+            132,
+            133,
+            134,
+            135,
+            85
+        ],
+        "No need to worry dont worry": [
+            136,
+            65,
+            137,
+            129,
+            138,
+            129
+        ],
+        "This place is beautiful": [
+            139,
+            77,
+            132,
+            10
+        ],
+        "are you free today": [
+            140,
+            130,
+            34,
+            114
+        ],
+        "are you hiding something": [
+            140,
+            130,
+            49,
+            96
+        ],
+        "bring water for me": [
+            14,
+            122,
+            141,
+            142
+        ],
+        "can i help you": [
+            143,
+            144,
+            48,
+            130
+        ],
+        "can you repeat that please": [
+            143,
+            130,
+            84,
+            107,
+            79
+        ],
+        "comb your hair": [
+            19,
+            145,
+            146
+        ],
+        "congratulations": [
+            21
+        ],
+        "could you please talk slower": [
+            147,
+            130,
+            79,
+            104,
+            90
+        ],
+        "do me a favour": [
+            27,
+            142,
+            148,
+            30
+        ],
+        "do not abuse him": [
+            27,
+            68,
+            1,
+            149
+        ],
+        "do not be stubborn": [
+            27,
+            68,
+            150,
+            100
+        ],
+        "do not hurt me": [
+            27,
+            68,
+            52,
+            142
+        ],
+        "do not make me angry": [
+            27,
+            68,
+            60,
+            142,
+            5
+        ],
+        "do not take it to the heart": [
+            27,
+            68,
+            151,
+            152,
+            137,
+            135,
+            46
+        ],
+        "do not worry": [
+            27,
+            68,
+            129
+        ],
+        "do you need something": [
+            27,
+            130,
+            65,
+            96
+        ],
+        "go and sleep": [
+            38,
+            153,
+            89
+        ],
+        "had your food": [
+            42,
+            145,
+            33
+        ],
+        "he came by train": [
+            131,
+            154,
+            155,
+            115
+        ],
+        "he is on the way": [
+            131,
+            132,
+            156,
+            135,
+            157
+        ],
+        "he she is my friend": [
+            131,
+            158,
+            132,
+            159,
+            35
+        ],
+        "he would be coming today": [
+            131,
+            160,
+            150,
+            161,
+            114
+        ],
+        "help me": [
+            48,
+            142
+        ],
+        "hi how are you": [
+            162,
+            50,
+            140,
+            130
+        ],
+        "how are things": [
+            50,
+            140,
+            109
+        ],
+        "how can i help you": [
+            50,
+            143,
+            144,
+            48,
+            130
+        ],
+        "how can i trust you": [
+            50,
+            143,
+            144,
+            116,
+            130
+        ],
+        "how dare you": [
+            50,
+            23,
+            130
+        ],
+        "how old are you": [
+            50,
+            163,
+            140,
+            130
+        ],
+        "i am (age)": [
+            144,
+            164,
+            165
+        ],
+        "i am afraid of that": [
+            144,
+            164,
+            2,
+            166,
+            107
+        ],
+        "i am crying": [
+            144,
+            164,
+            22
+        ],
+        "i am feeling bored": [
+            144,
+            164,
+            167,
+            13
+        ],
+        "i am feeling cold": [
+            144,
+            164,
+            167,
+            17
+        ],
+        "i am fine. thank you sir": [
+            144,
+            164,
+            32,
+            106,
+            130,
+            168
+        ],
+        "i am hungry": [
+            144,
+            164,
+            51
+        ],
+        "i am in dilemma what to do": [
+            144,
+            164,
+            169,
+            25,
+            125,
+            137,
+            27
+        ],
+        "i am not really sure": [
+            144,
+            164,
+            68,
+            83,
+            101
+        ],
+        "i am really grateful": [
+            144,
+            164,
+            83,
+            41
+        ],
+        "i am sitting in the class": [
+            144,
+            164,
+            88,
+            169,
+            135,
+            16
+        ],
+        "i am so sorry to hear that": [
+            144,
+            164,
+            170,
+            97,
+            137,
+            45,
+            107
+        ],
+        "i am suffering from fever": [
+            144,
+            164,
+            171,
+            36,
+            31
+        ],
+        "i am tired": [
+            144,
+            164,
+            113
+        ],
+        "i am very happy": [
+            144,
+            164,
+            120,
+            44
+        ],
+        "i can not help you there": [
+            144,
+            143,
+            68,
+            48,
+            130,
+            108
+        ],
+        "i do not agree": [
+            144,
+            27,
+            68,
+            3
+        ],
+        "i do not like it": [
+            144,
+            27,
+            68,
+            58,
+            152
+        ],
+        "i do not mean it": [
+            144,
+            27,
+            68,
+            172,
+            152
+        ],
+        "i dont agree": [
+            144,
+            138,
+            3
+        ],
+        "i enjoyed a lot": [
+            144,
+            173,
+            148,
+            174
+        ],
+        "i got hurt": [
+            144,
+            40,
+            52
+        ],
+        "i like you i love you": [
+            144,
+            58,
+            130,
+            144,
+            175,
+            130
+        ],
+        "i need water": [
+            144,
+            65,
+            122
+        ],
+        "i promise": [
+            144,
+            82
+        ],
+        "i really appreciate it": [
+            144,
+            83,
+            8,
+            152
+        ],
+        "i somehow got to know about it": [
+            144,
+            176,
+            40,
+            137,
+            55,
+            177,
+            152
+        ],
+        "i was stopped by some one": [
+            144,
+            178,
+            179,
+            155,
+            180,
+            181
+        ],
+        "it does not make any difference to me": [
+            152,
+            182,
+            68,
+            60,
+            6,
+            24,
+            137,
+            142
+        ],
+        "it was nice chatting with you": [
+            152,
+            178,
+            67,
+            183,
+            184,
+            130
+        ],
+        "let him take time": [
+            185,
+            149,
+            151,
+            186
+        ],
+        "my name is xxxxxxxx": [
+            159,
+            64,
+            132,
+            187
+        ],
+        "nice to meet you": [
+            67,
+            137,
+            63,
+            130
+        ],
+        "now onwards he will never hurt you": [
+            69,
+            74,
+            131,
+            188,
+            66,
+            52,
+            130
+        ],
+        "pour some more water into the glass": [
+            80,
+            180,
+            189,
+            122,
+            134,
+            135,
+            37
+        ],
+        "prepare the bed": [
+            81,
+            135,
+            12
+        ],
+        "serve the food": [
+            86,
+            135,
+            33
+        ],
+        "shall we go outside": [
+            190,
+            191,
+            38,
+            75
+        ],
+        "speak softly": [
+            98,
+            92
+        ],
+        "take care of yourself": [
+            151,
+            192,
+            166,
+            193
+        ],
+        "tell me truth": [
+            105,
+            142,
+            117
+        ],
+        "thank you so much": [
+            106,
+            130,
+            170,
+            194
+        ],
+        "that is so kind of you": [
+            107,
+            132,
+            170,
+            54,
+            166,
+            130
+        ],
+        "try to understand": [
+            195,
+            137,
+            119
+        ],
+        "turn on light turn off light": [
+            196,
+            156,
+            57,
+            196,
+            197,
+            57
+        ],
+        "we are all with you": [
+            191,
+            140,
+            4,
+            184,
+            130
+        ],
+        "wear the shirt": [
+            123,
+            135,
+            87
+        ],
+        "what are you doing": [
+            125,
+            140,
+            130,
+            198
+        ],
+        "what did you tell him": [
+            125,
+            199,
+            130,
+            105,
+            149
+        ],
+        "what do you do": [
+            125,
+            27,
+            130,
+            27
+        ],
+        "what do you think": [
+            125,
+            27,
+            130,
+            110
+        ],
+        "what do you want to become": [
+            125,
+            27,
+            130,
+            121,
+            137,
+            11
+        ],
+        "what happened": [
+            125,
+            43
+        ],
+        "what have you planned for your career": [
+            125,
+            200,
+            130,
+            78,
+            141,
+            145,
+            201
+        ],
+        "what is your phone number": [
+            125,
+            132,
+            145,
+            76,
+            70
+        ],
+        "what you want": [
+            125,
+            130,
+            121
+        ],
+        "when will the train leave": [
+            126,
+            188,
+            135,
+            115,
+            56
+        ],
+        "where are you from": [
+            127,
+            140,
+            130,
+            36
+        ],
+        "which collegeschool are you from": [
+            202,
+            203,
+            140,
+            130,
+            36
+        ],
+        "who are you": [
+            128,
+            140,
+            130
+        ],
+        "why are you angry": [
+            204,
+            140,
+            130,
+            5
+        ],
+        "why are you crying": [
+            204,
+            140,
+            130,
+            22
+        ],
+        "why are you disappointed": [
+            204,
+            140,
+            130,
+            26
+        ],
+        "you are bad": [
+            130,
+            140,
+            9
+        ],
+        "you are good": [
+            130,
+            140,
+            39
+        ],
+        "you are welcome": [
+            130,
+            140,
+            124
+        ],
+        "you can do it": [
+            130,
+            143,
+            27,
+            152
+        ],
+        "you do anything, i do not care": [
+            130,
+            27,
+            7,
+            144,
+            27,
+            68,
+            192
+        ],
+        "you need a medicine, take this one": [
+            130,
+            65,
+            148,
+            62,
+            151,
+            139,
+            181
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+# Environments
+venv/
+env/
+.env
+__pycache__/
+*.pyc
+*.pyo
+
+# Datasets and Media
+ISL_CSLRT_Corpus/
+Videos_tensors/
+*.mp4
+*.zip
+*.npy
+*.png
+
+# Model Checkpoints
+checkpoints/
+*.pth
+*.pt
+
+# IDE / Editor Files
+.vscode/
+.idea/
+.ipynb_checkpoints/
+
+# Temporary files
+null
