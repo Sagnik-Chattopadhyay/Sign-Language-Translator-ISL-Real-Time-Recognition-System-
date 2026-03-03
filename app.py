@@ -8,6 +8,11 @@ from inference_utils import SignLanguageModel, extract_keypoints
 import mediapipe as mp
 import collections
 import os
+import gc
+import torch
+
+# Globally disable PyTorch gradients to save memory
+torch.set_grad_enabled(False)
 
 app = FastAPI(title="Sign Language Translator API")
 
@@ -33,7 +38,16 @@ model = SignLanguageModel(data_root="Videos_tensors", checkpoint_dir="checkpoint
 # we can force it to load the state dict now if it hasn't already.
 if os.path.exists(MODEL_PATH):
     model.model.load_state_dict(torch.load(MODEL_PATH, map_location=model.device))
+    # Try quantizing again just in case it was newly downloaded
+    try:
+        model.model = torch.quantization.quantize_dynamic(
+            model.model, {torch.nn.Linear, torch.nn.Conv2d}, dtype=torch.qint8
+        )
+    except: pass
     model.model.eval()
+
+# Force clear RAM of any lingering download/init artifacts
+gc.collect()
 
 # MediaPipe
 mp_holistic = mp.solutions.holistic
@@ -81,6 +95,10 @@ async def websocket_predict(websocket: WebSocket):
                 # Run inference periodically
                 if len(sequence) >= 20 and frame_counter % inference_interval == 0:
                     current_prediction = model.predict_sequence(list(sequence)[-MAX_FRAMES:])
+                    
+                    # Prevent memory creeping up over time during active streams
+                    if frame_counter % (inference_interval * 10) == 0:
+                        gc.collect()
                 
                 # Send result back
                 await websocket.send_json({

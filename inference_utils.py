@@ -47,6 +47,19 @@ class SignLanguageModel:
         model_path = os.path.join(self.checkpoint_dir, latest)
         
         model.load_state_dict(torch.load(model_path, map_location=self.device))
+        
+        # MEMORY OPTIMIZATION: Dynamically quantize the model to 8-bit integers 
+        # to drastically reduce RAM usage so it fits within Render's 512MB limit.
+        try:
+            model = torch.quantization.quantize_dynamic(
+                model, 
+                {torch.nn.Linear, torch.nn.Conv2d}, # Target layers with heaviest weights
+                dtype=torch.qint8
+            )
+            print("Model successfully quantized to INT8 to save memory!")
+        except Exception as e:
+            print(f"Warning: Model quantization skipped. {e}")
+
         model.to(self.device)
         model.eval()
         return model
