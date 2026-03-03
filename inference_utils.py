@@ -31,11 +31,17 @@ class SignLanguageModel:
         model = Model(in_channels=3, num_class=self.ctc_metrics, graph_args=graph_args, edge_importance_weighting=True)
         
         if not os.path.exists(self.checkpoint_dir):
-            raise FileNotFoundError(f"Checkpoint directory {self.checkpoint_dir} not found.")
+            os.makedirs(self.checkpoint_dir, exist_ok=True)
+            print(f"Created checkpoint directory: {self.checkpoint_dir}")
 
         checkpoints = [f for f in os.listdir(self.checkpoint_dir) if f.endswith(".pth")]
+        
+        # If no checkpoints exist (e.g., during first cloud deployment before download),
+        # return the uninitialized model so the server can start and download it later.
         if not checkpoints:
-            raise FileNotFoundError(f"No .pth checkpoints found in {self.checkpoint_dir}")
+            print(f"Warning: No .pth checkpoints found in {self.checkpoint_dir}. Model weights are randomly initialized.")
+            model.to(self.device)
+            return model
             
         latest = max(checkpoints, key=lambda x: int(x.split('_')[2].split('.')[0]))
         model_path = os.path.join(self.checkpoint_dir, latest)

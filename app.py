@@ -7,14 +7,33 @@ from fastapi.responses import FileResponse
 from inference_utils import SignLanguageModel, extract_keypoints
 import mediapipe as mp
 import collections
+import os
 
 app = FastAPI(title="Sign Language Translator API")
 
 # Mount static files for the frontend
 app.mount("/static", StaticFiles(directory="static"), name="static")
 
+# Ensure checkpoint dir exists
+os.makedirs("checkpoints", exist_ok=True)
+
+# WARNING: TO DEPLOY, replace 'FILE_ID' below with your uploaded .pth Google Drive link ID.
+MODEL_FILE_ID = "YOUR_GOOGLE_DRIVE_FILE_ID_HERE"
+MODEL_PATH = "checkpoints/stgcn_model.pth"
+
+if not os.path.exists(MODEL_PATH) and MODEL_FILE_ID != "YOUR_GOOGLE_DRIVE_FILE_ID_HERE":
+    import gdown
+    print("Downloading model weights for cloud deployment...")
+    gdown.download(id=MODEL_FILE_ID, output=MODEL_PATH, quiet=False)
+
 # Load model globally
 model = SignLanguageModel(data_root="Videos_tensors", checkpoint_dir="checkpoints")
+
+# If the model had to be downloaded *after* the initial init (or we want to ensure it caught it)
+# we can force it to load the state dict now if it hasn't already.
+if os.path.exists(MODEL_PATH):
+    model.model.load_state_dict(torch.load(MODEL_PATH, map_location=model.device))
+    model.model.eval()
 
 # MediaPipe
 mp_holistic = mp.solutions.holistic
