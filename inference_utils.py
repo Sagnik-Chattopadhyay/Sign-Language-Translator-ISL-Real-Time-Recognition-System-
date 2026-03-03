@@ -21,10 +21,25 @@ class SignLanguageModel:
         print(f"Model loaded successfully on {self.device}")
 
     def _load_classes(self):
+        import json
+        if os.path.exists("classes.json"):
+            with open("classes.json", "r") as f:
+                return json.load(f)
+                
+        # Original fallback logic
         if not os.path.exists(self.data_root):
-            print(f"Warning: Data root {self.data_root} not found. Ensure the directory exists.")
+            print(f"Warning: Data root {self.data_root} and classes.json not found.")
             return []
-        return sorted([d for d in os.listdir(self.data_root) if os.path.isdir(os.path.join(self.data_root, d))])
+        
+        classes = sorted([d for d in os.listdir(self.data_root) if os.path.isdir(os.path.join(self.data_root, d))])
+        
+        # Save them for the future automatically (useful for deployment)
+        try:
+            with open("classes.json", "w") as f:
+                json.dump(classes, f, indent=2)
+        except: pass
+        
+        return classes
 
     def _load_model(self):
         graph_args = {'strategy': 'spatial'}
