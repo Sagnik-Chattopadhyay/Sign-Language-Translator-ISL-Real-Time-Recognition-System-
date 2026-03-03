@@ -23,7 +23,7 @@ app.mount("/static", StaticFiles(directory="static"), name="static")
 os.makedirs("checkpoints", exist_ok=True)
 
 # WARNING: TO DEPLOY, replace 'FILE_ID' below with your uploaded .pth Google Drive link ID.
-MODEL_FILE_ID = "YOUR_GOOGLE_DRIVE_FILE_ID_HERE"
+MODEL_FILE_ID = "1ym8R4i81A6x-8WV4f1YCSvCM0lYdVcYd"
 MODEL_PATH = "checkpoints/stgcn_model.pth"
 
 if not os.path.exists(MODEL_PATH) and MODEL_FILE_ID != "YOUR_GOOGLE_DRIVE_FILE_ID_HERE":
