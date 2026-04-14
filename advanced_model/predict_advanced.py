@@ -16,7 +16,7 @@ from final_preprocessing import process_video_to_skeleton
 
 # CONFIGURATION
 SENTENCE_MAP_FILE = r"e:/projects/sign language/advanced_model/sentence_map.json"
-CHECKPOINT_PATH = r"e:/projects/sign language/advanced_model/checkpoints_sentence/sentence_model_epoch_100.pth"
+CHECKPOINT_PATH = r"e:/projects/sign language/advanced_model/checkpoints_sentence/sentence_model_best.pth"
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 # MediaPipe for Annotation
@@ -112,7 +112,7 @@ def predict(video_path, output_path=None):
     
     # 2. Load Model
     print(f"Loading Model ({num_classes} classes)...")
-    model = SignTransformer(num_classes=num_classes, phase='pretrain') # CTC mode uses 'pretrain' structure
+    model = SignTransformer(num_classes=num_classes, phase='translation') # Sequence prediction mode
     
     if not os.path.exists(CHECKPOINT_PATH):
         print("Checkpoint not found!")
@@ -143,18 +143,11 @@ def predict(video_path, output_path=None):
     
     # 5. Inference
     with torch.no_grad():
-        # Encode features
-        features = model.encoder(tensor) # (N, 256, T_out)
-        features = features.permute(0, 2, 1) # (N, T_out, 256)
+        # New model forward in 'translation' phase handles STGCN + Transformer + Linear
+        outputs = model(tensor) # (N, T_out, Num_Classes)
         
-        # Classify
-        outputs = model.classifier(features) # (N, T_out, Num_Classes)
-        
-        # Log Softmax
-        # (N, T_out, Num_Classes) -> Permute? No, just keep batch first for manual decode if needed
-        # But ctc_decode usually takes (1, T, C)
-        
-    # 6. Decode
+        # Log Softmax for decoding
+        log_probs = F.log_softmax(outputs, dim=2)    # 6. Decode
     result = ctc_decode(outputs, vocab)
     print("\n" + "="*40)
     print(f"PREDICTED TRANSLATION: {result}")

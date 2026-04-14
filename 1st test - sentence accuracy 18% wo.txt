@@ -1,0 +1,7 @@
+1st test - sentence accuracy 18% word accuracy 40.78%
+Transformer Encoder between the ST-GCN backbone and the CTC classifier. This will allow the model to learn dependencies between different parts of the gesture sequence more effectively.
+3. Training Optimization
+Learning Rate Scheduler: Switch to ReduceLROnPlateau.As the model gets closer to a "perfect" answer, it now automatically slows down its learning rate. This allows it to "fine-tune" the weights with extreme precision without overshooting the best possible accuracy.
+Increase Epochs: Target 200+ epochs with early stopping based on validation loss.
+after changing  
+sentence accuracy 25.62%(after 25 epochs)

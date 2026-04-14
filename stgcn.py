@@ -89,20 +89,30 @@ class Model(nn.Module):
         
         self.data_bn = nn.BatchNorm1d(in_channels * A.size(1))
 
-        # Architecture: 10 Blocks
-        # Channels: 64 -> 64 -> 128 -> 128 -> 256 -> 256
-        self.st_gcn_networks = nn.ModuleList((
-            STGCN_Block(in_channels, 64, kernel_size, stride=1, residual=False),
-            STGCN_Block(64, 64, kernel_size, stride=1),
-            STGCN_Block(64, 64, kernel_size, stride=1),
-            STGCN_Block(64, 64, kernel_size, stride=1),
-            STGCN_Block(64, 128, kernel_size, stride=2), # Downsample T
-            STGCN_Block(128, 128, kernel_size, stride=1),
-            STGCN_Block(128, 128, kernel_size, stride=1),
-            STGCN_Block(128, 256, kernel_size, stride=2), # Downsample T
-            STGCN_Block(256, 256, kernel_size, stride=1),
-            STGCN_Block(256, 256, kernel_size, stride=1),
-        ))
+        # Architecture: Variable number of blocks (1 to 10 supported)
+        # Standard: 10 Blocks with 64 -> 64 -> 128 -> 128 -> 256 -> 256
+        # If num_layers=5, we take the first 5 with appropriate strides.
+        num_layers = kwargs.get('num_layers', 10)
+        
+        full_architecture = [
+            (in_channels, 64, 1, False),
+            (64, 64, 1, True),
+            (64, 64, 1, True),
+            (64, 64, 1, True),
+            (64, 128, 2, True),
+            (128, 128, 1, True),
+            (128, 128, 1, True),
+            (128, 256, 2, True),
+            (256, 256, 1, True),
+            (256, 256, 1, True),
+        ]
+        
+        self.st_gcn_networks = nn.ModuleList()
+        current_out_channels = 64
+        for i in range(min(num_layers, len(full_architecture))):
+            in_c, out_c, s, res = full_architecture[i]
+            self.st_gcn_networks.append(STGCN_Block(in_c, out_c, kernel_size, stride=s, residual=res))
+            current_out_channels = out_c
 
         # Edge Importance Weights (Learnable Mask for Adjacency)
         if edge_importance_weighting:
@@ -114,7 +124,8 @@ class Model(nn.Module):
             self.edge_importance = [1] * len(self.st_gcn_networks)
 
         # Classification Head for CTC (Frame-wise)
-        self.fc = nn.Conv1d(256, num_class, kernel_size=1)
+        # Use current_out_channels instead of hardcoded 256
+        self.fc = nn.Conv1d(current_out_channels, num_class, kernel_size=1)
 
     def forward(self, x):
         # Input x: (N, C, T, V, M)
@@ -139,9 +150,9 @@ class Model(nn.Module):
         # x is (N*M, 256, T_out, V)
         
         # Pool V dimension
-        # x: (N*M, C, T, V) -> (N*M, C, T, 1)
+        # x is (N*M, last_channels, T_out, V)
         x = F.avg_pool2d(x, (1, V)) 
-        x = x.view(N, M, 256, -1) # (N, M, C, T_out)
+        x = x.view(N, M, current_out_channels, -1) # (N, M, C, T_out)
         
         # Pool M dimension (Mean)
         x = x.mean(dim=1) # (N, C, T_out)

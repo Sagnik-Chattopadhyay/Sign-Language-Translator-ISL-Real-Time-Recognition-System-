@@ -1,0 +1,3438 @@
+DETAILED VIDEO-BY-VIDEO EVALUATION
+========================================
+
+Video: he is going into the room (2).npy
+Truth: HE IS GOING INTO THE ROOM
+Pred:  HE IS GOING INTO THE ROOM
+Match: True | WER: 0.00
+------------------------------
+Video: he is going into the room.npy
+Truth: HE IS GOING INTO THE ROOM
+Pred:  HE IS GOING INTO THE ROOM
+Match: True | WER: 0.00
+------------------------------
+Video: MVI_6503.npy
+Truth: HE IS GOING INTO THE ROOM
+Pred:  HE IS GOING INTO THE ROOM
+Match: True | WER: 0.00
+------------------------------
+Video: room (2).npy
+Truth: HE IS GOING INTO THE ROOM
+Pred:  HE IS GOING INTO THE ROOM
+Match: True | WER: 0.00
+------------------------------
+Video: room (3).npy
+Truth: HE IS GOING INTO THE ROOM
+Pred:  HE IS GOING INTO THE ROOM
+Match: True | WER: 0.00
+------------------------------
+Video: room (4).npy
+Truth: HE IS GOING INTO THE ROOM
+Pred:  HE IS GOING INTO THE ROOM
+Match: True | WER: 0.00
+------------------------------
+Video: room.npy
+Truth: HE IS GOING INTO THE ROOM
+Pred:  HE IS GOING INTO THE ROOM
+Match: True | WER: 0.00
+------------------------------
+Video: MVI_6496.npy
+Truth: NO NEED TO WORRY DONT WORRY
+Pred:  NO NOT WORRY
+Match: False | WER: 0.67
+------------------------------
+Video: beautiful (2).npy
+Truth: THIS PLACE IS BEAUTIFUL
+Pred:  THIS PLACE IS BEAUTIFUL
+Match: True | WER: 0.00
+------------------------------
+Video: beautiful (3).npy
+Truth: THIS PLACE IS BEAUTIFUL
+Pred:  THIS PLACE IS BEAUTIFUL
+Match: True | WER: 0.00
+------------------------------
+Video: beautiful (4).npy
+Truth: THIS PLACE IS BEAUTIFUL
+Pred:  THIS PLACE IS BEAUTIFUL
+Match: True | WER: 0.00
+------------------------------
+Video: beautiful.npy
+Truth: THIS PLACE IS BEAUTIFUL
+Pred:  THIS PLACE IS BEAUTIFUL
+Match: True | WER: 0.00
+------------------------------
+Video: MVI_6502.npy
+Truth: THIS PLACE IS BEAUTIFUL
+Pred:  THIS PLACE IS BEAUTIFUL
+Match: True | WER: 0.00
+------------------------------
+Video: this place is beautiful (2).npy
+Truth: THIS PLACE IS BEAUTIFUL
+Pred:  THIS PLACE IS BEAUTIFUL
+Match: True | WER: 0.00
+------------------------------
+Video: this place is beautiful.npy
+Truth: THIS PLACE IS BEAUTIFUL
+Pred:  THIS PLACE IS BEAUTIFUL
+Match: True | WER: 0.00
+------------------------------
+Video: are you free today (2).npy
+Truth: ARE YOU FREE TODAY
+Pred:  ARE YOU FREE TODAY
+Match: True | WER: 0.00
+------------------------------
+Video: are you free today.npy
+Truth: ARE YOU FREE TODAY
+Pred:  ARE YOU FREE TODAY
+Match: True | WER: 0.00
+------------------------------
+Video: free (2).npy
+Truth: ARE YOU FREE TODAY
+Pred:  ARE YOU FREE TODAY
+Match: True | WER: 0.00
+------------------------------
+Video: free (3).npy
+Truth: ARE YOU FREE TODAY
+Pred:  ARE YOU FREE TODAY
+Match: True | WER: 0.00
+------------------------------
+Video: free (4).npy
+Truth: ARE YOU FREE TODAY
+Pred:  ARE YOU FREE TODAY
+Match: True | WER: 0.00
+------------------------------
+Video: free (5).npy
+Truth: ARE YOU FREE TODAY
+Pred:  ARE YOU FREE TODAY
+Match: True | WER: 0.00
+------------------------------
+Video: free.npy
+Truth: ARE YOU FREE TODAY
+Pred:  ARE YOU FREE TODAY
+Match: True | WER: 0.00
+------------------------------
+Video: are you hiding something (2).npy
+Truth: ARE YOU HIDING SOMETHING
+Pred:  ARE YOU HIDING SOMETHING
+Match: True | WER: 0.00
+------------------------------
+Video: are you hiding something.npy
+Truth: ARE YOU HIDING SOMETHING
+Pred:  ARE YOU HIDING SOMETHING
+Match: True | WER: 0.00
+------------------------------
+Video: MVI_6209.npy
+Truth: ARE YOU HIDING SOMETHING
+Pred:  ARE YOU HIDING SOMETHING
+Match: True | WER: 0.00
+------------------------------
+Video: MVI_6507.npy
+Truth: ARE YOU HIDING SOMETHING
+Pred:  ARE YOU HIDING SOMETHING
+Match: True | WER: 0.00
+------------------------------
+Video: MVI_6685.npy
+Truth: ARE YOU HIDING SOMETHING
+Pred:  ARE YOU HIDING SOMETHING
+Match: True | WER: 0.00
+------------------------------
+Video: MVI_6817.npy
+Truth: ARE YOU HIDING SOMETHING
+Pred:  DO YOU NEED SOMETHING
+Match: False | WER: 0.50
+------------------------------
+Video: MVI_6958.npy
+Truth: ARE YOU HIDING SOMETHING
+Pred:  ARE YOU HIDING SOMETHING
+Match: True | WER: 0.00
+------------------------------
+Video: bring water for me (1).npy
+Truth: BRING WATER FOR ME
+Pred:  BRING WATER FOR ME
+Match: True | WER: 0.00
+------------------------------
+Video: bring water for me (3).npy
+Truth: BRING WATER FOR ME
+Pred:  BRING WATER FOR ME
+Match: True | WER: 0.00
+------------------------------
+Video: bring water for me (4).npy
+Truth: BRING WATER FOR ME
+Pred:  BRING WATER FOR ME
+Match: True | WER: 0.00
+------------------------------
+Video: bring water for me (5).npy
+Truth: BRING WATER FOR ME
+Pred:  BRING WATER FOR ME
+Match: True | WER: 0.00
+------------------------------
+Video: bring water for me (6).npy
+Truth: BRING WATER FOR ME
+Pred:  BRING WATER FOR ME
+Match: True | WER: 0.00
+------------------------------
+Video: bring water for me (7).npy
+Truth: BRING WATER FOR ME
+Pred:  BRING WATER FOR ME
+Match: True | WER: 0.00
+------------------------------
+Video: bring water for me (8).npy
+Truth: BRING WATER FOR ME
+Pred:  BRING WATER FOR ME
+Match: True | WER: 0.00
+------------------------------
+Video: can i help you (2).npy
+Truth: CAN I HELP YOU
+Pred:  CAN I HELP YOU
+Match: True | WER: 0.00
+------------------------------
+Video: can i help you.npy
+Truth: CAN I HELP YOU
+Pred:  CAN I HELP YOU
+Match: True | WER: 0.00
+------------------------------
+Video: cannot help.npy
+Truth: CAN I HELP YOU
+Pred:  CAN I HELP YOU
+Match: True | WER: 0.00
+------------------------------
+Video: help (2).npy
+Truth: CAN I HELP YOU
+Pred:  CAN I HELP YOU
+Match: True | WER: 0.00
+------------------------------
+Video: help (3).npy
+Truth: CAN I HELP YOU
+Pred:  CAN I HELP YOU
+Match: True | WER: 0.00
+------------------------------
+Video: help (4).npy
+Truth: CAN I HELP YOU
+Pred:  CAN I HELP YOU
+Match: True | WER: 0.00
+------------------------------
+Video: help (5).npy
+Truth: CAN I HELP YOU
+Pred:  CAN I HELP YOU
+Match: True | WER: 0.00
+------------------------------
+Video: help.npy
+Truth: CAN I HELP YOU
+Pred:  CAN I HELP YOU
+Match: True | WER: 0.00
+------------------------------
+Video: can you repeat that please (1).npy
+Truth: CAN YOU REPEAT THAT PLEASE
+Pred:  CAN YOU REPEAT THAT PLEASE
+Match: True | WER: 0.00
+------------------------------
+Video: can you repeat that please (3).npy
+Truth: CAN YOU REPEAT THAT PLEASE
+Pred:  CAN YOU REPEAT THAT PLEASE
+Match: True | WER: 0.00
+------------------------------
+Video: can you repeat that please (4).npy
+Truth: CAN YOU REPEAT THAT PLEASE
+Pred:  CAN YOU REPEAT THAT PLEASE
+Match: True | WER: 0.00
+------------------------------
+Video: can you repeat that please (5).npy
+Truth: CAN YOU REPEAT THAT PLEASE
+Pred:  CAN YOU REPEAT THAT PLEASE
+Match: True | WER: 0.00
+------------------------------
+Video: can you repeat that please (6).npy
+Truth: CAN YOU REPEAT THAT PLEASE
+Pred:  CAN YOU REPEAT THAT PLEASE
+Match: True | WER: 0.00
+------------------------------
+Video: can you repeat that please (7).npy
+Truth: CAN YOU REPEAT THAT PLEASE
+Pred:  CAN YOU REPEAT THAT PLEASE
+Match: True | WER: 0.00
+------------------------------
+Video: can you repeat that please (8).npy
+Truth: CAN YOU REPEAT THAT PLEASE
+Pred:  CAN YOU REPEAT THAT PLEASE
+Match: True | WER: 0.00
+------------------------------
+Video: comb (2).npy
+Truth: COMB YOUR HAIR
+Pred:  COMB YOUR HAIR
+Match: True | WER: 0.00
+------------------------------
+Video: comb (3).npy
+Truth: COMB YOUR HAIR
+Pred:  COMB YOUR HAIR
+Match: True | WER: 0.00
+------------------------------
+Video: comb (4).npy
+Truth: COMB YOUR HAIR
+Pred:  COMB YOUR HAIR
+Match: True | WER: 0.00
+------------------------------
+Video: comb (5).npy
+Truth: COMB YOUR HAIR
+Pred:  COMB YOUR HAIR
+Match: True | WER: 0.00
+------------------------------
+Video: comb your hair (2).npy
+Truth: COMB YOUR HAIR
+Pred:  COMB YOUR HAIR
+Match: True | WER: 0.00
+------------------------------
+Video: comb your hair.npy
+Truth: COMB YOUR HAIR
+Pred:  COMB YOUR HAIR
+Match: True | WER: 0.00
+------------------------------
+Video: comb.npy
+Truth: COMB YOUR HAIR
+Pred:  COMB YOUR HAIR
+Match: True | WER: 0.00
+------------------------------
+Video: congratulations (2).npy
+Truth: CONGRATULATIONS
+Pred:  CONGRATULATIONS
+Match: True | WER: 0.00
+------------------------------
+Video: congratulations (3).npy
+Truth: CONGRATULATIONS
+Pred:  CONGRATULATIONS
+Match: True | WER: 0.00
+------------------------------
+Video: congratulations (4).npy
+Truth: CONGRATULATIONS
+Pred:  CONGRATULATIONS
+Match: True | WER: 0.00
+------------------------------
+Video: congratulations (5).npy
+Truth: CONGRATULATIONS
+Pred:  CONGRATULATIONS
+Match: True | WER: 0.00
+------------------------------
+Video: congratulations (6).npy
+Truth: CONGRATULATIONS
+Pred:  CONGRATULATIONS
+Match: True | WER: 0.00
+------------------------------
+Video: congratulations (7).npy
+Truth: CONGRATULATIONS
+Pred:  CONGRATULATIONS
+Match: True | WER: 0.00
+------------------------------
+Video: congratulations.npy
+Truth: CONGRATULATIONS
+Pred:  CONGRATULATIONS
+Match: True | WER: 0.00
+------------------------------
+Video: could you please talk slower (1).npy
+Truth: COULD YOU PLEASE TALK SLOWER
+Pred:  COULD YOU PLEASE TALK SLOWER
+Match: True | WER: 0.00
+------------------------------
+Video: could you please talk slower (2).npy
+Truth: COULD YOU PLEASE TALK SLOWER
+Pred:  COULD YOU PLEASE TALK SLOWER
+Match: True | WER: 0.00
+------------------------------
+Video: could you please talk slower (3).npy
+Truth: COULD YOU PLEASE TALK SLOWER
+Pred:  COULD YOU PLEASE TALK SLOWER
+Match: True | WER: 0.00
+------------------------------
+Video: could you please talk slower (4).npy
+Truth: COULD YOU PLEASE TALK SLOWER
+Pred:  COULD YOU PLEASE TALK SLOWER
+Match: True | WER: 0.00
+------------------------------
+Video: could you please talk slower (5).npy
+Truth: COULD YOU PLEASE TALK SLOWER
+Pred:  COULD YOU PLEASE TALK SLOWER
+Match: True | WER: 0.00
+------------------------------
+Video: could you please talk slower (6).npy
+Truth: COULD YOU PLEASE TALK SLOWER
+Pred:  COULD YOU PLEASE TALK SLOWER
+Match: True | WER: 0.00
+------------------------------
+Video: could you please talk slower (7).npy
+Truth: COULD YOU PLEASE TALK SLOWER
+Pred:  COULD YOU PLEASE TALK SLOWER
+Match: True | WER: 0.00
+------------------------------
+Video: do me a favour (2).npy
+Truth: DO ME A FAVOUR
+Pred:  DO ME A FAVOUR
+Match: True | WER: 0.00
+------------------------------
+Video: do me a favour.npy
+Truth: DO ME A FAVOUR
+Pred:  DO ME A FAVOUR
+Match: True | WER: 0.00
+------------------------------
+Video: favour (2).npy
+Truth: DO ME A FAVOUR
+Pred:  DO ME A FAVOUR
+Match: True | WER: 0.00
+------------------------------
+Video: favour (3).npy
+Truth: DO ME A FAVOUR
+Pred:  DO ME A FAVOUR
+Match: True | WER: 0.00
+------------------------------
+Video: favour (4).npy
+Truth: DO ME A FAVOUR
+Pred:  DO ME A FAVOUR
+Match: True | WER: 0.00
+------------------------------
+Video: favour (5).npy
+Truth: DO ME A FAVOUR
+Pred:  DO ME A FAVOUR
+Match: True | WER: 0.00
+------------------------------
+Video: favour.npy
+Truth: DO ME A FAVOUR
+Pred:  DO ME A FAVOUR
+Match: True | WER: 0.00
+------------------------------
+Video: abuse (2).npy
+Truth: DO NOT ABUSE HIM
+Pred:  DO NOT ABUSE HIM
+Match: True | WER: 0.00
+------------------------------
+Video: abuse (3).npy
+Truth: DO NOT ABUSE HIM
+Pred:  DO NOT ABUSE HIM
+Match: True | WER: 0.00
+------------------------------
+Video: abuse (4).npy
+Truth: DO NOT ABUSE HIM
+Pred:  DO NOT ABUSE HIM
+Match: True | WER: 0.00
+------------------------------
+Video: abuse.npy
+Truth: DO NOT ABUSE HIM
+Pred:  DO NOT ABUSE HIM
+Match: True | WER: 0.00
+------------------------------
+Video: do not abuse him (2).npy
+Truth: DO NOT ABUSE HIM
+Pred:  DO NOT ABUSE HIM
+Match: True | WER: 0.00
+------------------------------
+Video: do not abuse him.npy
+Truth: DO NOT ABUSE HIM
+Pred:  DO NOT ABUSE HIM
+Match: True | WER: 0.00
+------------------------------
+Video: do not be stubborn (2).npy
+Truth: DO NOT BE STUBBORN
+Pred:  DO NOT BE STUBBORN
+Match: True | WER: 0.00
+------------------------------
+Video: do not be stubborn.npy
+Truth: DO NOT BE STUBBORN
+Pred:  DO NOT BE STUBBORN
+Match: True | WER: 0.00
+------------------------------
+Video: stubborn (2).npy
+Truth: DO NOT BE STUBBORN
+Pred:  DO NOT BE STUBBORN
+Match: True | WER: 0.00
+------------------------------
+Video: stubborn (3).npy
+Truth: DO NOT BE STUBBORN
+Pred:  DO NOT BE STUBBORN
+Match: True | WER: 0.00
+------------------------------
+Video: stubborn (4).npy
+Truth: DO NOT BE STUBBORN
+Pred:  DO NOT BE STUBBORN
+Match: True | WER: 0.00
+------------------------------
+Video: stubborn.npy
+Truth: DO NOT BE STUBBORN
+Pred:  DO NOT BE STUBBORN
+Match: True | WER: 0.00
+------------------------------
+Video: do not hurt me (2).npy
+Truth: DO NOT HURT ME
+Pred:  DO NOT HURT ME
+Match: True | WER: 0.00
+------------------------------
+Video: do not hurt me.npy
+Truth: DO NOT HURT ME
+Pred:  DO NOT HURT ME
+Match: True | WER: 0.00
+------------------------------
+Video: hurt me (2).npy
+Truth: DO NOT HURT ME
+Pred:  DO NOT HURT ME
+Match: True | WER: 0.00
+------------------------------
+Video: hurt me (3).npy
+Truth: DO NOT HURT ME
+Pred:  DO NOT HURT ME
+Match: True | WER: 0.00
+------------------------------
+Video: hurt me (4).npy
+Truth: DO NOT HURT ME
+Pred:  DO NOT HURT ME
+Match: True | WER: 0.00
+------------------------------
+Video: hurt me.npy
+Truth: DO NOT HURT ME
+Pred:  DO NOT HURT ME
+Match: True | WER: 0.00
+------------------------------
+Video: hurt.npy
+Truth: DO NOT HURT ME
+Pred:  DO NOT HURT ME
+Match: True | WER: 0.00
+------------------------------
+Video: do not make me angry (2).npy
+Truth: DO NOT MAKE ME ANGRY
+Pred:  DO NOT MAKE ME ANGRY
+Match: True | WER: 0.00
+------------------------------
+Video: do not make me angry.npy
+Truth: DO NOT MAKE ME ANGRY
+Pred:  DO NOT MAKE ME ANGRY
+Match: True | WER: 0.00
+------------------------------
+Video: me angry (2).npy
+Truth: DO NOT MAKE ME ANGRY
+Pred:  DO NOT MAKE ME ANGRY
+Match: True | WER: 0.00
+------------------------------
+Video: me angry (3).npy
+Truth: DO NOT MAKE ME ANGRY
+Pred:  DO NOT MAKE ME ANGRY
+Match: True | WER: 0.00
+------------------------------
+Video: me angry (4).npy
+Truth: DO NOT MAKE ME ANGRY
+Pred:  DO NOT MAKE ME ANGRY
+Match: True | WER: 0.00
+------------------------------
+Video: me angry (5).npy
+Truth: DO NOT MAKE ME ANGRY
+Pred:  DO NOT MAKE ME ANGRY
+Match: True | WER: 0.00
+------------------------------
+Video: me angry.npy
+Truth: DO NOT MAKE ME ANGRY
+Pred:  DO NOT MAKE ME ANGRY
+Match: True | WER: 0.00
+------------------------------
+Video: do not take it to the heart (2).npy
+Truth: DO NOT TAKE IT TO THE HEART
+Pred:  DO NOT TAKE IT TO THE HEART
+Match: True | WER: 0.00
+------------------------------
+Video: do not take it to the heart.npy
+Truth: DO NOT TAKE IT TO THE HEART
+Pred:  DO NOT TAKE IT TO THE HEART
+Match: True | WER: 0.00
+------------------------------
+Video: heart (2).npy
+Truth: DO NOT TAKE IT TO THE HEART
+Pred:  DO NOT TAKE IT TO THE HEART
+Match: True | WER: 0.00
+------------------------------
+Video: heart (3).npy
+Truth: DO NOT TAKE IT TO THE HEART
+Pred:  DO NOT TAKE IT TO THE HEART
+Match: True | WER: 0.00
+------------------------------
+Video: heart (4).npy
+Truth: DO NOT TAKE IT TO THE HEART
+Pred:  DO NOT TAKE IT TO THE HEART
+Match: True | WER: 0.00
+------------------------------
+Video: heart (5).npy
+Truth: DO NOT TAKE IT TO THE HEART
+Pred:  DO NOT TAKE IT TO THE HEART
+Match: True | WER: 0.00
+------------------------------
+Video: heart.npy
+Truth: DO NOT TAKE IT TO THE HEART
+Pred:  DO NOT TAKE IT TO THE HEART
+Match: True | WER: 0.00
+------------------------------
+Video: do not worry (2).npy
+Truth: DO NOT WORRY
+Pred:  DO NOT WORRY
+Match: True | WER: 0.00
+------------------------------
+Video: do not worry.npy
+Truth: DO NOT WORRY
+Pred:  DO NOT WORRY
+Match: True | WER: 0.00
+------------------------------
+Video: MVI_6633.npy
+Truth: DO NOT WORRY
+Pred:  DO NOT WORRY
+Match: True | WER: 0.00
+------------------------------
+Video: worry (2).npy
+Truth: DO NOT WORRY
+Pred:  DO NOT WORRY
+Match: True | WER: 0.00
+------------------------------
+Video: worry (3).npy
+Truth: DO NOT WORRY
+Pred:  DO NOT WORRY
+Match: True | WER: 0.00
+------------------------------
+Video: worry (4).npy
+Truth: DO NOT WORRY
+Pred:  DO NOT WORRY
+Match: True | WER: 0.00
+------------------------------
+Video: worry.npy
+Truth: DO NOT WORRY
+Pred:  NO NOT WORRY
+Match: False | WER: 0.33
+------------------------------
+Video: do you need something (2).npy
+Truth: DO YOU NEED SOMETHING
+Pred:  DO YOU NEED SOMETHING
+Match: True | WER: 0.00
+------------------------------
+Video: do you need something.npy
+Truth: DO YOU NEED SOMETHING
+Pred:  DO YOU NEED SOMETHING
+Match: True | WER: 0.00
+------------------------------
+Video: need something (2).npy
+Truth: DO YOU NEED SOMETHING
+Pred:  DO YOU NEED SOMETHING
+Match: True | WER: 0.00
+------------------------------
+Video: need something.npy
+Truth: DO YOU NEED SOMETHING
+Pred:  DO YOU NEED SOMETHING
+Match: True | WER: 0.00
+------------------------------
+Video: something (2).npy
+Truth: DO YOU NEED SOMETHING
+Pred:  DO YOU NEED SOMETHING
+Match: True | WER: 0.00
+------------------------------
+Video: something (3).npy
+Truth: DO YOU NEED SOMETHING
+Pred:  DO YOU NEED SOMETHING
+Match: True | WER: 0.00
+------------------------------
+Video: something.npy
+Truth: DO YOU NEED SOMETHING
+Pred:  DO YOU NEED SOMETHING
+Match: True | WER: 0.00
+------------------------------
+Video: go and sleep (2).npy
+Truth: GO AND SLEEP
+Pred:  GO AND SLEEP
+Match: True | WER: 0.00
+------------------------------
+Video: go and sleep.npy
+Truth: GO AND SLEEP
+Pred:  GO AND SLEEP
+Match: True | WER: 0.00
+------------------------------
+Video: sleep (2).npy
+Truth: GO AND SLEEP
+Pred:  GO AND SLEEP
+Match: True | WER: 0.00
+------------------------------
+Video: sleep (3).npy
+Truth: GO AND SLEEP
+Pred:  GO AND SLEEP
+Match: True | WER: 0.00
+------------------------------
+Video: sleep (4).npy
+Truth: GO AND SLEEP
+Pred:  GO AND SLEEP
+Match: True | WER: 0.00
+------------------------------
+Video: sleep (5).npy
+Truth: GO AND SLEEP
+Pred:  GO AND SLEEP
+Match: True | WER: 0.00
+------------------------------
+Video: sleep (6).npy
+Truth: GO AND SLEEP
+Pred:  GO AND SLEEP
+Match: True | WER: 0.00
+------------------------------
+Video: sleep.npy
+Truth: GO AND SLEEP
+Pred:  GO AND SLEEP
+Match: True | WER: 0.00
+------------------------------
+Video: food (2).npy
+Truth: HAD YOUR FOOD
+Pred:  HAD YOUR FOOD
+Match: True | WER: 0.00
+------------------------------
+Video: food (3).npy
+Truth: HAD YOUR FOOD
+Pred:  HAD YOUR FOOD
+Match: True | WER: 0.00
+------------------------------
+Video: food (4).npy
+Truth: HAD YOUR FOOD
+Pred:  HAD YOUR FOOD
+Match: True | WER: 0.00
+------------------------------
+Video: food (5).npy
+Truth: HAD YOUR FOOD
+Pred:  HAD YOUR FOOD
+Match: True | WER: 0.00
+------------------------------
+Video: food.npy
+Truth: HAD YOUR FOOD
+Pred:  HAD YOUR FOOD
+Match: True | WER: 0.00
+------------------------------
+Video: had your food (2).npy
+Truth: HAD YOUR FOOD
+Pred:  HAD YOUR FOOD
+Match: True | WER: 0.00
+------------------------------
+Video: had your food.npy
+Truth: HAD YOUR FOOD
+Pred:  HAD YOUR FOOD
+Match: True | WER: 0.00
+------------------------------
+Video: he came by train (2).npy
+Truth: HE CAME BY TRAIN
+Pred:  HE CAME BY TRAIN
+Match: True | WER: 0.00
+------------------------------
+Video: he came by train.npy
+Truth: HE CAME BY TRAIN
+Pred:  HE CAME BY TRAIN
+Match: True | WER: 0.00
+------------------------------
+Video: train (2).npy
+Truth: HE CAME BY TRAIN
+Pred:  HE CAME BY TRAIN
+Match: True | WER: 0.00
+------------------------------
+Video: train (3).npy
+Truth: HE CAME BY TRAIN
+Pred:  HE CAME BY TRAIN
+Match: True | WER: 0.00
+------------------------------
+Video: train (4).npy
+Truth: HE CAME BY TRAIN
+Pred:  HE CAME BY TRAIN
+Match: True | WER: 0.00
+------------------------------
+Video: train (5).npy
+Truth: HE CAME BY TRAIN
+Pred:  HE CAME BY TRAIN
+Match: True | WER: 0.00
+------------------------------
+Video: train.npy
+Truth: HE CAME BY TRAIN
+Pred:  HE CAME BY TRAIN
+Match: True | WER: 0.00
+------------------------------
+Video: he is on the way (2).npy
+Truth: HE IS ON THE WAY
+Pred:  HE IS ON THE WAY
+Match: True | WER: 0.00
+------------------------------
+Video: he is on the way.npy
+Truth: HE IS ON THE WAY
+Pred:  HE IS ON THE WAY
+Match: True | WER: 0.00
+------------------------------
+Video: way (2).npy
+Truth: HE IS ON THE WAY
+Pred:  HE IS ON THE WAY
+Match: True | WER: 0.00
+------------------------------
+Video: way (3).npy
+Truth: HE IS ON THE WAY
+Pred:  HE IS ON THE WAY
+Match: True | WER: 0.00
+------------------------------
+Video: way (4).npy
+Truth: HE IS ON THE WAY
+Pred:  HE IS ON THE WAY
+Match: True | WER: 0.00
+------------------------------
+Video: way.npy
+Truth: HE IS ON THE WAY
+Pred:  HE IS ON THE WAY
+Match: True | WER: 0.00
+------------------------------
+Video: friend (2).npy
+Truth: HE SHE IS MY FRIEND
+Pred:  HE SHE IS MY FRIEND
+Match: True | WER: 0.00
+------------------------------
+Video: friend (3).npy
+Truth: HE SHE IS MY FRIEND
+Pred:  HE SHE IS MY FRIEND
+Match: True | WER: 0.00
+------------------------------
+Video: friend (4).npy
+Truth: HE SHE IS MY FRIEND
+Pred:  HE SHE IS MY FRIEND
+Match: True | WER: 0.00
+------------------------------
+Video: friend.npy
+Truth: HE SHE IS MY FRIEND
+Pred:  HE SHE IS MY FRIEND
+Match: True | WER: 0.00
+------------------------------
+Video: heshe is my friend.npy
+Truth: HE SHE IS MY FRIEND
+Pred:  HE SHE IS MY FRIEND
+Match: True | WER: 0.00
+------------------------------
+Video: MVI_6500.npy
+Truth: HE SHE IS MY FRIEND
+Pred:  HE SHE IS MY FRIEND
+Match: True | WER: 0.00
+------------------------------
+Video: she is my friend.npy
+Truth: HE SHE IS MY FRIEND
+Pred:  HE SHE IS MY FRIEND
+Match: True | WER: 0.00
+------------------------------
+Video: he would be coming today (2).npy
+Truth: HE WOULD BE COMING TODAY
+Pred:  HE WOULD BE COMING TODAY
+Match: True | WER: 0.00
+------------------------------
+Video: he would be coming today.npy
+Truth: HE WOULD BE COMING TODAY
+Pred:  HE WOULD BE COMING TODAY
+Match: True | WER: 0.00
+------------------------------
+Video: today (2).npy
+Truth: HE WOULD BE COMING TODAY
+Pred:  HE WOULD BE COMING TODAY
+Match: True | WER: 0.00
+------------------------------
+Video: today (3).npy
+Truth: HE WOULD BE COMING TODAY
+Pred:  HE WOULD BE COMING TODAY
+Match: True | WER: 0.00
+------------------------------
+Video: today (4).npy
+Truth: HE WOULD BE COMING TODAY
+Pred:  HE WOULD BE COMING TODAY
+Match: True | WER: 0.00
+------------------------------
+Video: today (5).npy
+Truth: HE WOULD BE COMING TODAY
+Pred:  HE WOULD BE COMING TODAY
+Match: True | WER: 0.00
+------------------------------
+Video: today.npy
+Truth: HE WOULD BE COMING TODAY
+Pred:  HE WOULD BE COMING TODAY
+Match: True | WER: 0.00
+------------------------------
+Video: help me (1).npy
+Truth: HELP ME
+Pred:  HELP ME
+Match: True | WER: 0.00
+------------------------------
+Video: help me (3).npy
+Truth: HELP ME
+Pred:  HELP ME
+Match: True | WER: 0.00
+------------------------------
+Video: help me (4).npy
+Truth: HELP ME
+Pred:  HELP ME
+Match: True | WER: 0.00
+------------------------------
+Video: help me (5).npy
+Truth: HELP ME
+Pred:  HELP ME
+Match: True | WER: 0.00
+------------------------------
+Video: help me (6).npy
+Truth: HELP ME
+Pred:  HELP ME
+Match: True | WER: 0.00
+------------------------------
+Video: help me (7).npy
+Truth: HELP ME
+Pred:  HELP ME
+Match: True | WER: 0.00
+------------------------------
+Video: help me (8).npy
+Truth: HELP ME
+Pred:  HELP ME
+Match: True | WER: 0.00
+------------------------------
+Video: hi how are you (1).npy
+Truth: HI HOW ARE YOU
+Pred:  HI HOW ARE YOU
+Match: True | WER: 0.00
+------------------------------
+Video: hi how are you (2).npy
+Truth: HI HOW ARE YOU
+Pred:  HI HOW ARE YOU
+Match: True | WER: 0.00
+------------------------------
+Video: hi how are you (3).npy
+Truth: HI HOW ARE YOU
+Pred:  HI HOW ARE YOU
+Match: True | WER: 0.00
+------------------------------
+Video: hi how are you (4).npy
+Truth: HI HOW ARE YOU
+Pred:  HI HOW ARE YOU
+Match: True | WER: 0.00
+------------------------------
+Video: hi how are you (5).npy
+Truth: HI HOW ARE YOU
+Pred:  HI HOW ARE YOU
+Match: True | WER: 0.00
+------------------------------
+Video: hi how are you (6).npy
+Truth: HI HOW ARE YOU
+Pred:  HI HOW ARE YOU
+Match: True | WER: 0.00
+------------------------------
+Video: hi how are you (7).npy
+Truth: HI HOW ARE YOU
+Pred:  HI HOW ARE YOU
+Match: True | WER: 0.00
+------------------------------
+Video: how are things (2).npy
+Truth: HOW ARE THINGS
+Pred:  HOW ARE THINGS
+Match: True | WER: 0.00
+------------------------------
+Video: how are things.npy
+Truth: HOW ARE THINGS
+Pred:  HOW ARE THINGS
+Match: True | WER: 0.00
+------------------------------
+Video: things (2).npy
+Truth: HOW ARE THINGS
+Pred:  HOW ARE THINGS
+Match: True | WER: 0.00
+------------------------------
+Video: things (3).npy
+Truth: HOW ARE THINGS
+Pred:  HOW ARE THINGS
+Match: True | WER: 0.00
+------------------------------
+Video: things (4).npy
+Truth: HOW ARE THINGS
+Pred:  HOW ARE THINGS
+Match: True | WER: 0.00
+------------------------------
+Video: things.npy
+Truth: HOW ARE THINGS
+Pred:  HOW ARE THINGS
+Match: True | WER: 0.00
+------------------------------
+Video: how can i help you (1).npy
+Truth: HOW CAN I HELP YOU
+Pred:  HOW CAN I HELP YOU
+Match: True | WER: 0.00
+------------------------------
+Video: how can i help you (2).npy
+Truth: HOW CAN I HELP YOU
+Pred:  HOW CAN I HELP YOU
+Match: True | WER: 0.00
+------------------------------
+Video: how can i help you (3).npy
+Truth: HOW CAN I HELP YOU
+Pred:  HOW CAN I HELP YOU
+Match: True | WER: 0.00
+------------------------------
+Video: how can i help you (4).npy
+Truth: HOW CAN I HELP YOU
+Pred:  HOW CAN I HELP YOU
+Match: True | WER: 0.00
+------------------------------
+Video: how can i help you (5).npy
+Truth: HOW CAN I HELP YOU
+Pred:  HOW CAN I HELP YOU
+Match: True | WER: 0.00
+------------------------------
+Video: how can i help you (6).npy
+Truth: HOW CAN I HELP YOU
+Pred:  HOW CAN I HELP YOU
+Match: True | WER: 0.00
+------------------------------
+Video: how can i help you (7).npy
+Truth: HOW CAN I HELP YOU
+Pred:  HOW CAN I HELP YOU
+Match: True | WER: 0.00
+------------------------------
+Video: how can i trust you (2).npy
+Truth: HOW CAN I TRUST YOU
+Pred:  HOW CAN I TRUST YOU
+Match: True | WER: 0.00
+------------------------------
+Video: how can i trust you.npy
+Truth: HOW CAN I TRUST YOU
+Pred:  HOW CAN I TRUST YOU
+Match: True | WER: 0.00
+------------------------------
+Video: trust (2).npy
+Truth: HOW CAN I TRUST YOU
+Pred:  HOW CAN I TRUST YOU
+Match: True | WER: 0.00
+------------------------------
+Video: trust (3).npy
+Truth: HOW CAN I TRUST YOU
+Pred:  HOW CAN I TRUST YOU
+Match: True | WER: 0.00
+------------------------------
+Video: trust (4).npy
+Truth: HOW CAN I TRUST YOU
+Pred:  HOW CAN I TRUST YOU
+Match: True | WER: 0.00
+------------------------------
+Video: trust (5).npy
+Truth: HOW CAN I TRUST YOU
+Pred:  HOW CAN I TRUST YOU
+Match: True | WER: 0.00
+------------------------------
+Video: trust.npy
+Truth: HOW CAN I TRUST YOU
+Pred:  HOW CAN I TRUST YOU
+Match: True | WER: 0.00
+------------------------------
+Video: dare (2).npy
+Truth: HOW DARE YOU
+Pred:  HOW DARE YOU
+Match: True | WER: 0.00
+------------------------------
+Video: dare (3).npy
+Truth: HOW DARE YOU
+Pred:  HOW DARE YOU
+Match: True | WER: 0.00
+------------------------------
+Video: dare (4).npy
+Truth: HOW DARE YOU
+Pred:  HOW DARE YOU
+Match: True | WER: 0.00
+------------------------------
+Video: dare (5).npy
+Truth: HOW DARE YOU
+Pred:  HOW DARE YOU
+Match: True | WER: 0.00
+------------------------------
+Video: dare.npy
+Truth: HOW DARE YOU
+Pred:  HOW DARE YOU
+Match: True | WER: 0.00
+------------------------------
+Video: how dare you (2).npy
+Truth: HOW DARE YOU
+Pred:  HOW DARE YOU
+Match: True | WER: 0.00
+------------------------------
+Video: how dare you.npy
+Truth: HOW DARE YOU
+Pred:  HOW DARE YOU
+Match: True | WER: 0.00
+------------------------------
+Video: how old are you (1).npy
+Truth: HOW OLD ARE YOU
+Pred:  HOW OLD ARE YOU
+Match: True | WER: 0.00
+------------------------------
+Video: how old are you (2).npy
+Truth: HOW OLD ARE YOU
+Pred:  HOW OLD ARE YOU
+Match: True | WER: 0.00
+------------------------------
+Video: how old are you (3).npy
+Truth: HOW OLD ARE YOU
+Pred:  HOW OLD ARE YOU
+Match: True | WER: 0.00
+------------------------------
+Video: how old are you (4).npy
+Truth: HOW OLD ARE YOU
+Pred:  HOW OLD ARE YOU
+Match: True | WER: 0.00
+------------------------------
+Video: how old are you (5).npy
+Truth: HOW OLD ARE YOU
+Pred:  HOW OLD ARE YOU
+Match: True | WER: 0.00
+------------------------------
+Video: how old are you (6).npy
+Truth: HOW OLD ARE YOU
+Pred:  HOW OLD ARE YOU
+Match: True | WER: 0.00
+------------------------------
+Video: how old are you (7).npy
+Truth: HOW OLD ARE YOU
+Pred:  HOW OLD ARE YOU
+Match: True | WER: 0.00
+------------------------------
+Video: i am (age) (1).npy
+Truth: I AM (AGE)
+Pred:  I AM (AGE)
+Match: True | WER: 0.00
+------------------------------
+Video: i am (age) (2).npy
+Truth: I AM (AGE)
+Pred:  I AM (AGE)
+Match: True | WER: 0.00
+------------------------------
+Video: i am (age) (3).npy
+Truth: I AM (AGE)
+Pred:  I AM (AGE)
+Match: True | WER: 0.00
+------------------------------
+Video: i am (age) (4).npy
+Truth: I AM (AGE)
+Pred:  I AM (AGE)
+Match: True | WER: 0.00
+------------------------------
+Video: i am (age) (5).npy
+Truth: I AM (AGE)
+Pred:  I AM (AGE)
+Match: True | WER: 0.00
+------------------------------
+Video: i am (age) (6).npy
+Truth: I AM (AGE)
+Pred:  I AM (AGE)
+Match: True | WER: 0.00
+------------------------------
+Video: afraid (2).npy
+Truth: I AM AFRAID OF THAT
+Pred:  I AM AFRAID OF THAT
+Match: True | WER: 0.00
+------------------------------
+Video: afraid (3).npy
+Truth: I AM AFRAID OF THAT
+Pred:  I AM AFRAID OF THAT
+Match: True | WER: 0.00
+------------------------------
+Video: afraid (4).npy
+Truth: I AM AFRAID OF THAT
+Pred:  I AM AFRAID OF THAT
+Match: True | WER: 0.00
+------------------------------
+Video: afraid (5).npy
+Truth: I AM AFRAID OF THAT
+Pred:  I AM AFRAID OF THAT
+Match: True | WER: 0.00
+------------------------------
+Video: afraid.npy
+Truth: I AM AFRAID OF THAT
+Pred:  I AM AFRAID OF THAT
+Match: True | WER: 0.00
+------------------------------
+Video: i am afraid of that (2).npy
+Truth: I AM AFRAID OF THAT
+Pred:  I AM AFRAID OF THAT
+Match: True | WER: 0.00
+------------------------------
+Video: i am afraid of that.npy
+Truth: I AM AFRAID OF THAT
+Pred:  I AM AFRAID OF THAT
+Match: True | WER: 0.00
+------------------------------
+Video: i am crying (2).npy
+Truth: I AM CRYING
+Pred:  I AM CRYING
+Match: True | WER: 0.00
+------------------------------
+Video: i am crying (3).npy
+Truth: I AM CRYING
+Pred:  I AM CRYING
+Match: True | WER: 0.00
+------------------------------
+Video: i am crying (4).npy
+Truth: I AM CRYING
+Pred:  I AM CRYING
+Match: True | WER: 0.00
+------------------------------
+Video: i am crying (5).npy
+Truth: I AM CRYING
+Pred:  I AM CRYING
+Match: True | WER: 0.00
+------------------------------
+Video: i am crying (6).npy
+Truth: I AM CRYING
+Pred:  I AM CRYING
+Match: True | WER: 0.00
+------------------------------
+Video: i am crying (7).npy
+Truth: I AM CRYING
+Pred:  I AM CRYING
+Match: True | WER: 0.00
+------------------------------
+Video: i am crying.npy
+Truth: I AM CRYING
+Pred:  I AM CRYING
+Match: True | WER: 0.00
+------------------------------
+Video: bored (2).npy
+Truth: I AM FEELING BORED
+Pred:  I AM FEELING BORED
+Match: True | WER: 0.00
+------------------------------
+Video: bored (3).npy
+Truth: I AM FEELING BORED
+Pred:  I AM FEELING BORED
+Match: True | WER: 0.00
+------------------------------
+Video: bored (4).npy
+Truth: I AM FEELING BORED
+Pred:  I AM FEELING BORED
+Match: True | WER: 0.00
+------------------------------
+Video: bored (5).npy
+Truth: I AM FEELING BORED
+Pred:  I AM FEELING BORED
+Match: True | WER: 0.00
+------------------------------
+Video: bored.npy
+Truth: I AM FEELING BORED
+Pred:  I AM FEELING BORED
+Match: True | WER: 0.00
+------------------------------
+Video: i am feeling bored (2).npy
+Truth: I AM FEELING BORED
+Pred:  I AM FEELING BORED
+Match: True | WER: 0.00
+------------------------------
+Video: i am feeling bored.npy
+Truth: I AM FEELING BORED
+Pred:  I AM FEELING BORED
+Match: True | WER: 0.00
+------------------------------
+Video: cold (2).npy
+Truth: I AM FEELING COLD
+Pred:  I AM FEELING COLD
+Match: True | WER: 0.00
+------------------------------
+Video: cold (3).npy
+Truth: I AM FEELING COLD
+Pred:  I AM FEELING COLD
+Match: True | WER: 0.00
+------------------------------
+Video: cold (4).npy
+Truth: I AM FEELING COLD
+Pred:  I AM FEELING COLD
+Match: True | WER: 0.00
+------------------------------
+Video: cold (5).npy
+Truth: I AM FEELING COLD
+Pred:  I AM FEELING COLD
+Match: True | WER: 0.00
+------------------------------
+Video: cold.npy
+Truth: I AM FEELING COLD
+Pred:  I AM FEELING COLD
+Match: True | WER: 0.00
+------------------------------
+Video: i am feeling cold (2).npy
+Truth: I AM FEELING COLD
+Pred:  I AM FEELING COLD
+Match: True | WER: 0.00
+------------------------------
+Video: i am feeling cold.npy
+Truth: I AM FEELING COLD
+Pred:  I AM FEELING COLD
+Match: True | WER: 0.00
+------------------------------
+Video: fine thank (2).npy
+Truth: I AM FINE THANK YOU SIR
+Pred:  I AM FINE THANK YOU SIR
+Match: True | WER: 0.00
+------------------------------
+Video: fine thank (3).npy
+Truth: I AM FINE THANK YOU SIR
+Pred:  I AM FINE THANK YOU SIR
+Match: True | WER: 0.00
+------------------------------
+Video: fine thank (4).npy
+Truth: I AM FINE THANK YOU SIR
+Pred:  I AM FINE THANK YOU SIR
+Match: True | WER: 0.00
+------------------------------
+Video: fine thank (5).npy
+Truth: I AM FINE THANK YOU SIR
+Pred:  I AM FINE THANK YOU SIR
+Match: True | WER: 0.00
+------------------------------
+Video: fine thank.npy
+Truth: I AM FINE THANK YOU SIR
+Pred:  I AM FINE THANK YOU SIR
+Match: True | WER: 0.00
+------------------------------
+Video: i am fine. thank you sir (2).npy
+Truth: I AM FINE THANK YOU SIR
+Pred:  I AM FINE THANK YOU SIR
+Match: True | WER: 0.00
+------------------------------
+Video: i am fine. thank you sir.npy
+Truth: I AM FINE THANK YOU SIR
+Pred:  I AM FINE THANK YOU SIR
+Match: True | WER: 0.00
+------------------------------
+Video: i am hungry   (1).npy
+Truth: I AM HUNGRY
+Pred:  I AM HUNGRY
+Match: True | WER: 0.00
+------------------------------
+Video: i am hungry   (2).npy
+Truth: I AM HUNGRY
+Pred:  I AM HUNGRY
+Match: True | WER: 0.00
+------------------------------
+Video: i am hungry   (3).npy
+Truth: I AM HUNGRY
+Pred:  I AM HUNGRY
+Match: True | WER: 0.00
+------------------------------
+Video: i am hungry   (4).npy
+Truth: I AM HUNGRY
+Pred:  I AM HUNGRY
+Match: True | WER: 0.00
+------------------------------
+Video: i am hungry   (5).npy
+Truth: I AM HUNGRY
+Pred:  I AM HUNGRY
+Match: True | WER: 0.00
+------------------------------
+Video: i am hungry   (6).npy
+Truth: I AM HUNGRY
+Pred:  I AM HUNGRY
+Match: True | WER: 0.00
+------------------------------
+Video: i am hungry   (7).npy
+Truth: I AM HUNGRY
+Pred:  I AM HUNGRY
+Match: True | WER: 0.00
+------------------------------
+Video: dilemma (2).npy
+Truth: I AM IN DILEMMA WHAT TO DO
+Pred:  I AM IN DILEMMA WHAT TO DO
+Match: True | WER: 0.00
+------------------------------
+Video: dilemma (3).npy
+Truth: I AM IN DILEMMA WHAT TO DO
+Pred:  I AM IN DILEMMA WHAT TO DO
+Match: True | WER: 0.00
+------------------------------
+Video: dilemma (4).npy
+Truth: I AM IN DILEMMA WHAT TO DO
+Pred:  I AM IN DILEMMA WHAT TO DO
+Match: True | WER: 0.00
+------------------------------
+Video: dilemma (5).npy
+Truth: I AM IN DILEMMA WHAT TO DO
+Pred:  I AM IN DILEMMA WHAT TO DO
+Match: True | WER: 0.00
+------------------------------
+Video: dilemma.npy
+Truth: I AM IN DILEMMA WHAT TO DO
+Pred:  I AM IN DILEMMA WHAT TO DO
+Match: True | WER: 0.00
+------------------------------
+Video: i am in dilemma what to do (2).npy
+Truth: I AM IN DILEMMA WHAT TO DO
+Pred:  I AM IN DILEMMA WHAT TO DO
+Match: True | WER: 0.00
+------------------------------
+Video: i am in dilemma what to do.npy
+Truth: I AM IN DILEMMA WHAT TO DO
+Pred:  I AM IN DILEMMA WHAT TO DO
+Match: True | WER: 0.00
+------------------------------
+Video: i am not really sure (2).npy
+Truth: I AM NOT REALLY SURE
+Pred:  I AM NOT REALLY SURE
+Match: True | WER: 0.00
+------------------------------
+Video: i am not really sure.npy
+Truth: I AM NOT REALLY SURE
+Pred:  I AM NOT REALLY SURE
+Match: True | WER: 0.00
+------------------------------
+Video: MVI_6546.npy
+Truth: I AM NOT REALLY SURE
+Pred:  I AM NOT REALLY SURE
+Match: True | WER: 0.00
+------------------------------
+Video: really sure (2).npy
+Truth: I AM NOT REALLY SURE
+Pred:  I AM NOT REALLY SURE
+Match: True | WER: 0.00
+------------------------------
+Video: really sure (3).npy
+Truth: I AM NOT REALLY SURE
+Pred:  I AM NOT REALLY SURE
+Match: True | WER: 0.00
+------------------------------
+Video: really sure (4).npy
+Truth: I AM NOT REALLY SURE
+Pred:  I AM NOT REALLY SURE
+Match: True | WER: 0.00
+------------------------------
+Video: really sure.npy
+Truth: I AM NOT REALLY SURE
+Pred:  I AM NOT REALLY SURE
+Match: True | WER: 0.00
+------------------------------
+Video: i am really grateful (2).npy
+Truth: I AM REALLY GRATEFUL
+Pred:  I AM REALLY GRATEFUL
+Match: True | WER: 0.00
+------------------------------
+Video: i am really grateful.npy
+Truth: I AM REALLY GRATEFUL
+Pred:  I AM REALLY GRATEFUL
+Match: True | WER: 0.00
+------------------------------
+Video: MVI_6104.npy
+Truth: I AM REALLY GRATEFUL
+Pred:  I AM REALLY GRATEFUL
+Match: True | WER: 0.00
+------------------------------
+Video: MVI_6395.npy
+Truth: I AM REALLY GRATEFUL
+Pred:  I AM REALLY GRATEFUL
+Match: True | WER: 0.00
+------------------------------
+Video: MVI_6539.npy
+Truth: I AM REALLY GRATEFUL
+Pred:  I AM REALLY GRATEFUL
+Match: True | WER: 0.00
+------------------------------
+Video: MVI_6721.npy
+Truth: I AM REALLY GRATEFUL
+Pred:  I AM REALLY GRATEFUL
+Match: True | WER: 0.00
+------------------------------
+Video: MVI_6849.npy
+Truth: I AM REALLY GRATEFUL
+Pred:  I AM REALLY GRATEFUL
+Match: True | WER: 0.00
+------------------------------
+Video: i am sitting in the class (2).npy
+Truth: I AM SITTING IN THE CLASS
+Pred:  I AM SITTING IN THE CLASS
+Match: True | WER: 0.00
+------------------------------
+Video: i am sitting in the class.npy
+Truth: I AM SITTING IN THE CLASS
+Pred:  I AM SITTING IN THE CLASS
+Match: True | WER: 0.00
+------------------------------
+Video: sitting (2).npy
+Truth: I AM SITTING IN THE CLASS
+Pred:  I AM SITTING IN THE CLASS
+Match: True | WER: 0.00
+------------------------------
+Video: sitting (3).npy
+Truth: I AM SITTING IN THE CLASS
+Pred:  I AM SITTING IN THE CLASS
+Match: True | WER: 0.00
+------------------------------
+Video: sitting (4).npy
+Truth: I AM SITTING IN THE CLASS
+Pred:  I AM SITTING IN THE CLASS
+Match: True | WER: 0.00
+------------------------------
+Video: sitting (5).npy
+Truth: I AM SITTING IN THE CLASS
+Pred:  I AM SITTING IN THE CLASS
+Match: True | WER: 0.00
+------------------------------
+Video: sitting.npy
+Truth: I AM SITTING IN THE CLASS
+Pred:  I AM SITTING IN THE CLASS
+Match: True | WER: 0.00
+------------------------------
+Video: i am so sorry to hear that (2).npy
+Truth: I AM SO SORRY TO HEAR THAT
+Pred:  I AM SO SORRY TO HEAR THAT
+Match: True | WER: 0.00
+------------------------------
+Video: i am so sorry to hear that.npy
+Truth: I AM SO SORRY TO HEAR THAT
+Pred:  I AM SO SORRY TO HEAR THAT
+Match: True | WER: 0.00
+------------------------------
+Video: sorry hear (2).npy
+Truth: I AM SO SORRY TO HEAR THAT
+Pred:  I AM SO SORRY TO HEAR THAT
+Match: True | WER: 0.00
+------------------------------
+Video: sorry hear (3).npy
+Truth: I AM SO SORRY TO HEAR THAT
+Pred:  I AM SO SORRY TO HEAR THAT
+Match: True | WER: 0.00
+------------------------------
+Video: sorry hear (4).npy
+Truth: I AM SO SORRY TO HEAR THAT
+Pred:  I AM SO SORRY TO HEAR THAT
+Match: True | WER: 0.00
+------------------------------
+Video: sorry hear (5).npy
+Truth: I AM SO SORRY TO HEAR THAT
+Pred:  I AM SO SORRY TO HEAR THAT
+Match: True | WER: 0.00
+------------------------------
+Video: sorry hear.npy
+Truth: I AM SO SORRY TO HEAR THAT
+Pred:  I AM SO SORRY TO HEAR THAT
+Match: True | WER: 0.00
+------------------------------
+Video: fever (2).npy
+Truth: I AM SUFFERING FROM FEVER
+Pred:  I AM SUFFERING FROM FEVER
+Match: True | WER: 0.00
+------------------------------
+Video: fever (3).npy
+Truth: I AM SUFFERING FROM FEVER
+Pred:  I AM SUFFERING FROM FEVER
+Match: True | WER: 0.00
+------------------------------
+Video: fever (4).npy
+Truth: I AM SUFFERING FROM FEVER
+Pred:  I AM SUFFERING FROM FEVER
+Match: True | WER: 0.00
+------------------------------
+Video: fever (5).npy
+Truth: I AM SUFFERING FROM FEVER
+Pred:  I AM SUFFERING FROM FEVER
+Match: True | WER: 0.00
+------------------------------
+Video: fever.npy
+Truth: I AM SUFFERING FROM FEVER
+Pred:  I AM SUFFERING FROM FEVER
+Match: True | WER: 0.00
+------------------------------
+Video: i am suffering from fever (2).npy
+Truth: I AM SUFFERING FROM FEVER
+Pred:  I AM SUFFERING FROM FEVER
+Match: True | WER: 0.00
+------------------------------
+Video: i am suffering from fever.npy
+Truth: I AM SUFFERING FROM FEVER
+Pred:  I AM SUFFERING FROM FEVER
+Match: True | WER: 0.00
+------------------------------
+Video: i am tired (2).npy
+Truth: I AM TIRED
+Pred:  I AM TIRED
+Match: True | WER: 0.00
+------------------------------
+Video: i am tired.npy
+Truth: I AM TIRED
+Pred:  I AM TIRED
+Match: True | WER: 0.00
+------------------------------
+Video: tired (2).npy
+Truth: I AM TIRED
+Pred:  I AM TIRED
+Match: True | WER: 0.00
+------------------------------
+Video: tired (3).npy
+Truth: I AM TIRED
+Pred:  I AM TIRED
+Match: True | WER: 0.00
+------------------------------
+Video: tired (4).npy
+Truth: I AM TIRED
+Pred:  I AM TIRED
+Match: True | WER: 0.00
+------------------------------
+Video: tired (5).npy
+Truth: I AM TIRED
+Pred:  I AM TIRED
+Match: True | WER: 0.00
+------------------------------
+Video: tired.npy
+Truth: I AM TIRED
+Pred:  I AM TIRED
+Match: True | WER: 0.00
+------------------------------
+Video: i am very happy (2).npy
+Truth: I AM VERY HAPPY
+Pred:  I AM VERY HAPPY
+Match: True | WER: 0.00
+------------------------------
+Video: i am very happy.npy
+Truth: I AM VERY HAPPY
+Pred:  I AM VERY HAPPY
+Match: True | WER: 0.00
+------------------------------
+Video: very happy (2).npy
+Truth: I AM VERY HAPPY
+Pred:  I AM VERY HAPPY
+Match: True | WER: 0.00
+------------------------------
+Video: very happy (3).npy
+Truth: I AM VERY HAPPY
+Pred:  I AM VERY HAPPY
+Match: True | WER: 0.00
+------------------------------
+Video: very happy (4).npy
+Truth: I AM VERY HAPPY
+Pred:  I AM VERY HAPPY
+Match: True | WER: 0.00
+------------------------------
+Video: very happy.npy
+Truth: I AM VERY HAPPY
+Pred:  I AM VERY HAPPY
+Match: True | WER: 0.00
+------------------------------
+Video: i can not help you there (2).npy
+Truth: I CAN NOT HELP YOU THERE
+Pred:  I CAN NOT HELP YOU THERE
+Match: True | WER: 0.00
+------------------------------
+Video: i can not help you there.npy
+Truth: I CAN NOT HELP YOU THERE
+Pred:  I CAN NOT HELP YOU THERE
+Match: True | WER: 0.00
+------------------------------
+Video: MVI_6109.npy
+Truth: I CAN NOT HELP YOU THERE
+Pred:  I CAN NOT HELP YOU THERE
+Match: True | WER: 0.00
+------------------------------
+Video: MVI_6399.npy
+Truth: I CAN NOT HELP YOU THERE
+Pred:  I CAN NOT HELP YOU THERE
+Match: True | WER: 0.00
+------------------------------
+Video: MVI_6545.npy
+Truth: I CAN NOT HELP YOU THERE
+Pred:  I CAN NOT HELP YOU THERE
+Match: True | WER: 0.00
+------------------------------
+Video: MVI_6725.npy
+Truth: I CAN NOT HELP YOU THERE
+Pred:  I CAN NOT HELP YOU THERE
+Match: True | WER: 0.00
+------------------------------
+Video: MVI_6854.npy
+Truth: I CAN NOT HELP YOU THERE
+Pred:  I CAN NOT HELP YOU THERE
+Match: True | WER: 0.00
+------------------------------
+Video: agree (2).npy
+Truth: I DO NOT AGREE
+Pred:  I DO NOT AGREE
+Match: True | WER: 0.00
+------------------------------
+Video: agree (3).npy
+Truth: I DO NOT AGREE
+Pred:  I DO NOT AGREE
+Match: True | WER: 0.00
+------------------------------
+Video: agree (4).npy
+Truth: I DO NOT AGREE
+Pred:  I DO NOT AGREE
+Match: True | WER: 0.00
+------------------------------
+Video: agree (5).npy
+Truth: I DO NOT AGREE
+Pred:  I DO NOT AGREE
+Match: True | WER: 0.00
+------------------------------
+Video: agree.npy
+Truth: I DO NOT AGREE
+Pred:  I DONT NOT AGREE
+Match: False | WER: 0.25
+------------------------------
+Video: i do not agree (2).npy
+Truth: I DO NOT AGREE
+Pred:  I DO NOT AGREE
+Match: True | WER: 0.00
+------------------------------
+Video: i do not agree.npy
+Truth: I DO NOT AGREE
+Pred:  I DO NOT AGREE
+Match: True | WER: 0.00
+------------------------------
+Video: hate (2).npy
+Truth: I DO NOT LIKE IT
+Pred:  I DO NOT LIKE IT
+Match: True | WER: 0.00
+------------------------------
+Video: hate (3).npy
+Truth: I DO NOT LIKE IT
+Pred:  I DO NOT LIKE IT
+Match: True | WER: 0.00
+------------------------------
+Video: hate (4).npy
+Truth: I DO NOT LIKE IT
+Pred:  I DO NOT LIKE IT
+Match: True | WER: 0.00
+------------------------------
+Video: hate it.npy
+Truth: I DO NOT LIKE IT
+Pred:  I DO NOT LIKE IT
+Match: True | WER: 0.00
+------------------------------
+Video: hate.npy
+Truth: I DO NOT LIKE IT
+Pred:  I DO NOT LIKE IT
+Match: True | WER: 0.00
+------------------------------
+Video: i do not like it (2).npy
+Truth: I DO NOT LIKE IT
+Pred:  I DO NOT LIKE IT
+Match: True | WER: 0.00
+------------------------------
+Video: i do not like it.npy
+Truth: I DO NOT LIKE IT
+Pred:  I DO NOT LIKE IT
+Match: True | WER: 0.00
+------------------------------
+Video: i do not mean it (3).npy
+Truth: I DO NOT MEAN IT
+Pred:  I DO NOT MEAN IT
+Match: True | WER: 0.00
+------------------------------
+Video: i do not mean it.npy
+Truth: I DO NOT MEAN IT
+Pred:  I DO NOT MEAN IT
+Match: True | WER: 0.00
+------------------------------
+Video: mean (2).npy
+Truth: I DO NOT MEAN IT
+Pred:  I DO NOT MEAN IT
+Match: True | WER: 0.00
+------------------------------
+Video: mean (3).npy
+Truth: I DO NOT MEAN IT
+Pred:  I DO NOT MEAN IT
+Match: True | WER: 0.00
+------------------------------
+Video: mean (4).npy
+Truth: I DO NOT MEAN IT
+Pred:  I DO NOT MEAN IT
+Match: True | WER: 0.00
+------------------------------
+Video: mean (5).npy
+Truth: I DO NOT MEAN IT
+Pred:  I DO NOT MEAN IT
+Match: True | WER: 0.00
+------------------------------
+Video: mean.npy
+Truth: I DO NOT MEAN IT
+Pred:  I DO NOT MEAN IT
+Match: True | WER: 0.00
+------------------------------
+Video: MVI_6494.npy
+Truth: I DONT AGREE
+Pred:  I DONT NOT AGREE
+Match: False | WER: 0.33
+------------------------------
+Video: enjoy (2).npy
+Truth: I ENJOYED A LOT
+Pred:  I ENJOYED A LOT
+Match: True | WER: 0.00
+------------------------------
+Video: enjoy.npy
+Truth: I ENJOYED A LOT
+Pred:  I ENJOYED A LOT
+Match: True | WER: 0.00
+------------------------------
+Video: enjoyed (2).npy
+Truth: I ENJOYED A LOT
+Pred:  I ENJOYED A LOT
+Match: True | WER: 0.00
+------------------------------
+Video: enjoyed (3).npy
+Truth: I ENJOYED A LOT
+Pred:  I ENJOYED A LOT
+Match: True | WER: 0.00
+------------------------------
+Video: enjoyed (4).npy
+Truth: I ENJOYED A LOT
+Pred:  I ENJOYED A LOT
+Match: True | WER: 0.00
+------------------------------
+Video: enjoyed.npy
+Truth: I ENJOYED A LOT
+Pred:  I ENJOYED A LOT
+Match: True | WER: 0.00
+------------------------------
+Video: i enjoyed a lot (2).npy
+Truth: I ENJOYED A LOT
+Pred:  I ENJOYED A LOT
+Match: True | WER: 0.00
+------------------------------
+Video: i enjoyed a lot.npy
+Truth: I ENJOYED A LOT
+Pred:  I ENJOYED A LOT
+Match: True | WER: 0.00
+------------------------------
+Video: got hurt (2).npy
+Truth: I GOT HURT
+Pred:  I GOT HURT
+Match: True | WER: 0.00
+------------------------------
+Video: got hurt (3).npy
+Truth: I GOT HURT
+Pred:  I GOT HURT
+Match: True | WER: 0.00
+------------------------------
+Video: got hurt (4).npy
+Truth: I GOT HURT
+Pred:  I GOT HURT
+Match: True | WER: 0.00
+------------------------------
+Video: got hurt (5).npy
+Truth: I GOT HURT
+Pred:  I GOT HURT
+Match: True | WER: 0.00
+------------------------------
+Video: got hurt.npy
+Truth: I GOT HURT
+Pred:  I GOT HURT
+Match: True | WER: 0.00
+------------------------------
+Video: i got hurt (2).npy
+Truth: I GOT HURT
+Pred:  I GOT HURT
+Match: True | WER: 0.00
+------------------------------
+Video: i got hurt.npy
+Truth: I GOT HURT
+Pred:  I GOT HURT
+Match: True | WER: 0.00
+------------------------------
+Video: i love you (2).npy
+Truth: I LIKE YOU I LOVE YOU
+Pred:  I LIKE YOU I LOVE YOU
+Match: True | WER: 0.00
+------------------------------
+Video: i love you.npy
+Truth: I LIKE YOU I LOVE YOU
+Pred:  I LIKE YOU I LOVE YOU
+Match: True | WER: 0.00
+------------------------------
+Video: love.npy
+Truth: I LIKE YOU I LOVE YOU
+Pred:  I LIKE YOU I LOVE YOU
+Match: True | WER: 0.00
+------------------------------
+Video: MVI_6207.npy
+Truth: I LIKE YOU I LOVE YOU
+Pred:  I LIKE YOU I LOVE YOU
+Match: True | WER: 0.00
+------------------------------
+Video: MVI_6505.npy
+Truth: I LIKE YOU I LOVE YOU
+Pred:  I LIKE YOU I LOVE YOU
+Match: True | WER: 0.00
+------------------------------
+Video: MVI_6682.npy
+Truth: I LIKE YOU I LOVE YOU
+Pred:  I LIKE YOU I LOVE YOU
+Match: True | WER: 0.00
+------------------------------
+Video: MVI_6814.npy
+Truth: I LIKE YOU I LOVE YOU
+Pred:  I LIKE YOU I LOVE YOU
+Match: True | WER: 0.00
+------------------------------
+Video: MVI_6956.npy
+Truth: I LIKE YOU I LOVE YOU
+Pred:  I LIKE YOU I LOVE YOU
+Match: True | WER: 0.00
+------------------------------
+Video: i need water 1.npy
+Truth: I NEED WATER
+Pred:  I NEED WATER
+Match: True | WER: 0.00
+------------------------------
+Video: i need water 2.npy
+Truth: I NEED WATER
+Pred:  I NEED WATER
+Match: True | WER: 0.00
+------------------------------
+Video: i need water 3.npy
+Truth: I NEED WATER
+Pred:  I NEED WATER
+Match: True | WER: 0.00
+------------------------------
+Video: i need water 4.npy
+Truth: I NEED WATER
+Pred:  I NEED WATER
+Match: True | WER: 0.00
+------------------------------
+Video: i need water 5.npy
+Truth: I NEED WATER
+Pred:  I NEED WATER
+Match: True | WER: 0.00
+------------------------------
+Video: i need water 6.npy
+Truth: I NEED WATER
+Pred:  I NEED WATER
+Match: True | WER: 0.00
+------------------------------
+Video: i need water 7.npy
+Truth: I NEED WATER
+Pred:  I NEED WATER
+Match: True | WER: 0.00
+------------------------------
+Video: i promise (2).npy
+Truth: I PROMISE
+Pred:  I PROMISE
+Match: True | WER: 0.00
+------------------------------
+Video: i promise.npy
+Truth: I PROMISE
+Pred:  I PROMISE
+Match: True | WER: 0.00
+------------------------------
+Video: promise (2).npy
+Truth: I PROMISE
+Pred:  I PROMISE
+Match: True | WER: 0.00
+------------------------------
+Video: promise (3).npy
+Truth: I PROMISE
+Pred:  I PROMISE
+Match: True | WER: 0.00
+------------------------------
+Video: promise (4).npy
+Truth: I PROMISE
+Pred:  I PROMISE
+Match: True | WER: 0.00
+------------------------------
+Video: promise (5).npy
+Truth: I PROMISE
+Pred:  I PROMISE
+Match: True | WER: 0.00
+------------------------------
+Video: promise.npy
+Truth: I PROMISE
+Pred:  I PROMISE
+Match: True | WER: 0.00
+------------------------------
+Video: i really appreciate it (1).npy
+Truth: I REALLY APPRECIATE IT
+Pred:  I REALLY APPRECIATE IT
+Match: True | WER: 0.00
+------------------------------
+Video: i really appreciate it (2).npy
+Truth: I REALLY APPRECIATE IT
+Pred:  I REALLY APPRECIATE IT
+Match: True | WER: 0.00
+------------------------------
+Video: i really appreciate it (3).npy
+Truth: I REALLY APPRECIATE IT
+Pred:  I REALLY APPRECIATE IT
+Match: True | WER: 0.00
+------------------------------
+Video: i really appreciate it (4).npy
+Truth: I REALLY APPRECIATE IT
+Pred:  I REALLY APPRECIATE IT
+Match: True | WER: 0.00
+------------------------------
+Video: i really appreciate it (5).npy
+Truth: I REALLY APPRECIATE IT
+Pred:  I REALLY APPRECIATE IT
+Match: True | WER: 0.00
+------------------------------
+Video: i really appreciate it (6).npy
+Truth: I REALLY APPRECIATE IT
+Pred:  I REALLY APPRECIATE IT
+Match: True | WER: 0.00
+------------------------------
+Video: i really appreciate it (7).npy
+Truth: I REALLY APPRECIATE IT
+Pred:  I REALLY APPRECIATE IT
+Match: True | WER: 0.00
+------------------------------
+Video: i somehow got to know about it..npy
+Truth: I SOMEHOW GOT TO KNOW ABOUT IT
+Pred:  I SOMEHOW GOT TO KNOW ABOUT IT
+Match: True | WER: 0.00
+------------------------------
+Video: i somehow got to know about it.npy
+Truth: I SOMEHOW GOT TO KNOW ABOUT IT
+Pred:  I SOMEHOW GOT TO KNOW ABOUT IT
+Match: True | WER: 0.00
+------------------------------
+Video: somehow (2).npy
+Truth: I SOMEHOW GOT TO KNOW ABOUT IT
+Pred:  I SOMEHOW GOT TO KNOW ABOUT IT
+Match: True | WER: 0.00
+------------------------------
+Video: somehow (3).npy
+Truth: I SOMEHOW GOT TO KNOW ABOUT IT
+Pred:  I SOMEHOW GOT TO KNOW ABOUT IT
+Match: True | WER: 0.00
+------------------------------
+Video: somehow (4).npy
+Truth: I SOMEHOW GOT TO KNOW ABOUT IT
+Pred:  I SOMEHOW GOT TO KNOW ABOUT IT
+Match: True | WER: 0.00
+------------------------------
+Video: somehow (5).npy
+Truth: I SOMEHOW GOT TO KNOW ABOUT IT
+Pred:  I SOMEHOW GOT TO KNOW ABOUT IT
+Match: True | WER: 0.00
+------------------------------
+Video: somehow.npy
+Truth: I SOMEHOW GOT TO KNOW ABOUT IT
+Pred:  I SOMEHOW GOT TO KNOW ABOUT IT
+Match: True | WER: 0.00
+------------------------------
+Video: i was stopped by someone (2).npy
+Truth: I WAS STOPPED BY SOME ONE
+Pred:  I WAS STOPPED BY SOME ONE
+Match: True | WER: 0.00
+------------------------------
+Video: i was stopped by someone.npy
+Truth: I WAS STOPPED BY SOME ONE
+Pred:  I WAS STOPPED BY SOME ONE
+Match: True | WER: 0.00
+------------------------------
+Video: MVI_6504.npy
+Truth: I WAS STOPPED BY SOME ONE
+Pred:  I WAS STOPPED BY SOME ONE
+Match: True | WER: 0.00
+------------------------------
+Video: MVI_6955.npy
+Truth: I WAS STOPPED BY SOME ONE
+Pred:  I WAS STOPPED BY SOME ONE
+Match: True | WER: 0.00
+------------------------------
+Video: stopped (2).npy
+Truth: I WAS STOPPED BY SOME ONE
+Pred:  I WAS STOPPED BY SOME ONE
+Match: True | WER: 0.00
+------------------------------
+Video: stopped (3).npy
+Truth: I WAS STOPPED BY SOME ONE
+Pred:  I WAS STOPPED BY SOME ONE
+Match: True | WER: 0.00
+------------------------------
+Video: stopped.npy
+Truth: I WAS STOPPED BY SOME ONE
+Pred:  I WAS STOPPED BY SOME ONE
+Match: True | WER: 0.00
+------------------------------
+Video: difference (2).npy
+Truth: IT DOES NOT MAKE ANY DIFFERENCE TO ME
+Pred:  IT DOES NOT MAKE ANY DIFFERENCE TO ME
+Match: True | WER: 0.00
+------------------------------
+Video: difference (3).npy
+Truth: IT DOES NOT MAKE ANY DIFFERENCE TO ME
+Pred:  IT DOES NOT MAKE ANY DIFFERENCE TO ME
+Match: True | WER: 0.00
+------------------------------
+Video: difference (4).npy
+Truth: IT DOES NOT MAKE ANY DIFFERENCE TO ME
+Pred:  IT DOES NOT MAKE ANY DIFFERENCE TO ME
+Match: True | WER: 0.00
+------------------------------
+Video: difference (5).npy
+Truth: IT DOES NOT MAKE ANY DIFFERENCE TO ME
+Pred:  IT DOES NOT MAKE ANY DIFFERENCE TO ME
+Match: True | WER: 0.00
+------------------------------
+Video: difference.npy
+Truth: IT DOES NOT MAKE ANY DIFFERENCE TO ME
+Pred:  IT DOES NOT MAKE ANY DIFFERENCE TO ME
+Match: True | WER: 0.00
+------------------------------
+Video: it does not make any difference to me (2).npy
+Truth: IT DOES NOT MAKE ANY DIFFERENCE TO ME
+Pred:  IT DOES NOT MAKE ANY DIFFERENCE TO ME
+Match: True | WER: 0.00
+------------------------------
+Video: it does not make any difference to me.npy
+Truth: IT DOES NOT MAKE ANY DIFFERENCE TO ME
+Pred:  IT DOES NOT MAKE ANY DIFFERENCE TO ME
+Match: True | WER: 0.00
+------------------------------
+Video: it was nice chatting with you (2).npy
+Truth: IT WAS NICE CHATTING WITH YOU
+Pred:  IT WAS NICE CHATTING WITH YOU
+Match: True | WER: 0.00
+------------------------------
+Video: it was nice chatting with you.npy
+Truth: IT WAS NICE CHATTING WITH YOU
+Pred:  IT WAS NICE CHATTING WITH YOU
+Match: True | WER: 0.00
+------------------------------
+Video: MVI_6107.npy
+Truth: IT WAS NICE CHATTING WITH YOU
+Pred:  IT WAS NICE CHATTING WITH YOU
+Match: True | WER: 0.00
+------------------------------
+Video: MVI_6398.npy
+Truth: IT WAS NICE CHATTING WITH YOU
+Pred:  IT WAS NICE CHATTING WITH YOU
+Match: True | WER: 0.00
+------------------------------
+Video: MVI_6542.npy
+Truth: IT WAS NICE CHATTING WITH YOU
+Pred:  IT WAS NICE CHATTING WITH YOU
+Match: True | WER: 0.00
+------------------------------
+Video: MVI_6724.npy
+Truth: IT WAS NICE CHATTING WITH YOU
+Pred:  IT WAS NICE CHATTING WITH YOU
+Match: True | WER: 0.00
+------------------------------
+Video: MVI_6853.npy
+Truth: IT WAS NICE CHATTING WITH YOU
+Pred:  IT WAS NICE CHATTING WITH YOU
+Match: True | WER: 0.00
+------------------------------
+Video: let him take time (2).npy
+Truth: LET HIM TAKE TIME
+Pred:  LET HIM TAKE TIME
+Match: True | WER: 0.00
+------------------------------
+Video: let him take time.npy
+Truth: LET HIM TAKE TIME
+Pred:  LET HIM TAKE TIME
+Match: True | WER: 0.00
+------------------------------
+Video: time (2).npy
+Truth: LET HIM TAKE TIME
+Pred:  LET HIM TAKE TIME
+Match: True | WER: 0.00
+------------------------------
+Video: time (3).npy
+Truth: LET HIM TAKE TIME
+Pred:  LET HIM TAKE TIME
+Match: True | WER: 0.00
+------------------------------
+Video: time (4).npy
+Truth: LET HIM TAKE TIME
+Pred:  LET HIM TAKE TIME
+Match: True | WER: 0.00
+------------------------------
+Video: time (5).npy
+Truth: LET HIM TAKE TIME
+Pred:  LET HIM TAKE TIME
+Match: True | WER: 0.00
+------------------------------
+Video: time.npy
+Truth: LET HIM TAKE TIME
+Pred:  LET HIM TAKE TIME
+Match: True | WER: 0.00
+------------------------------
+Video: my name is xxxxxxxx (1).npy
+Truth: MY NAME IS XXXXXXXX
+Pred:  MY NAME IS XXXXXXXX
+Match: True | WER: 0.00
+------------------------------
+Video: my name is xxxxxxxx (2).npy
+Truth: MY NAME IS XXXXXXXX
+Pred:  MY NAME IS XXXXXXXX
+Match: True | WER: 0.00
+------------------------------
+Video: my name is xxxxxxxx (3).npy
+Truth: MY NAME IS XXXXXXXX
+Pred:  MY NAME IS XXXXXXXX
+Match: True | WER: 0.00
+------------------------------
+Video: my name is xxxxxxxx (4).npy
+Truth: MY NAME IS XXXXXXXX
+Pred:  MY NAME IS XXXXXXXX
+Match: True | WER: 0.00
+------------------------------
+Video: my name is xxxxxxxx (5).npy
+Truth: MY NAME IS XXXXXXXX
+Pred:  MY NAME IS XXXXXXXX
+Match: True | WER: 0.00
+------------------------------
+Video: my name is xxxxxxxx (6).npy
+Truth: MY NAME IS XXXXXXXX
+Pred:  MY NAME IS XXXXXXXX
+Match: True | WER: 0.00
+------------------------------
+Video: my name is xxxxxxxx (7).npy
+Truth: MY NAME IS XXXXXXXX
+Pred:  MY NAME IS XXXXXXXX
+Match: True | WER: 0.00
+------------------------------
+Video: nice to meet you (1).npy
+Truth: NICE TO MEET YOU
+Pred:  NICE TO MEET YOU
+Match: True | WER: 0.00
+------------------------------
+Video: nice to meet you (3).npy
+Truth: NICE TO MEET YOU
+Pred:  NICE TO MEET YOU
+Match: True | WER: 0.00
+------------------------------
+Video: nice to meet you (4).npy
+Truth: NICE TO MEET YOU
+Pred:  NICE TO MEET YOU
+Match: True | WER: 0.00
+------------------------------
+Video: nice to meet you (5).npy
+Truth: NICE TO MEET YOU
+Pred:  NICE TO MEET YOU
+Match: True | WER: 0.00
+------------------------------
+Video: nice to meet you (6).npy
+Truth: NICE TO MEET YOU
+Pred:  NICE TO MEET YOU
+Match: True | WER: 0.00
+------------------------------
+Video: nice to meet you (7).npy
+Truth: NICE TO MEET YOU
+Pred:  NICE TO MEET YOU
+Match: True | WER: 0.00
+------------------------------
+Video: nice to meet you (8).npy
+Truth: NICE TO MEET YOU
+Pred:  NICE TO MEET YOU
+Match: True | WER: 0.00
+------------------------------
+Video: never hurt (2).npy
+Truth: NOW ONWARDS HE WILL NEVER HURT YOU
+Pred:  NOW ONWARDS HE WILL NEVER HURT YOU
+Match: True | WER: 0.00
+------------------------------
+Video: never hurt (3).npy
+Truth: NOW ONWARDS HE WILL NEVER HURT YOU
+Pred:  NOW ONWARDS HE WILL NEVER HURT YOU
+Match: True | WER: 0.00
+------------------------------
+Video: never hurt (4).npy
+Truth: NOW ONWARDS HE WILL NEVER HURT YOU
+Pred:  NOW ONWARDS HE WILL NEVER HURT YOU
+Match: True | WER: 0.00
+------------------------------
+Video: never hurt (5).npy
+Truth: NOW ONWARDS HE WILL NEVER HURT YOU
+Pred:  NOW ONWARDS HE WILL NEVER HURT YOU
+Match: True | WER: 0.00
+------------------------------
+Video: never hurt.npy
+Truth: NOW ONWARDS HE WILL NEVER HURT YOU
+Pred:  WHAT ONWARDS YOU WILL FOR HURT CAREER
+Match: False | WER: 0.57
+------------------------------
+Video: now onwards he will never hurt you.npy
+Truth: NOW ONWARDS HE WILL NEVER HURT YOU
+Pred:  NOW ONWARDS HE WILL NEVER HURT YOU
+Match: True | WER: 0.00
+------------------------------
+Video: pour (2).npy
+Truth: POUR SOME MORE WATER INTO THE GLASS
+Pred:  POUR SOME MORE WATER INTO THE GLASS
+Match: True | WER: 0.00
+------------------------------
+Video: pour (3).npy
+Truth: POUR SOME MORE WATER INTO THE GLASS
+Pred:  POUR SOME MORE WATER INTO THE GLASS
+Match: True | WER: 0.00
+------------------------------
+Video: pour (4).npy
+Truth: POUR SOME MORE WATER INTO THE GLASS
+Pred:  POUR SOME MORE WATER INTO THE GLASS
+Match: True | WER: 0.00
+------------------------------
+Video: pour (5).npy
+Truth: POUR SOME MORE WATER INTO THE GLASS
+Pred:  POUR SOME MORE WATER INTO THE GLASS
+Match: True | WER: 0.00
+------------------------------
+Video: pour some more water into the glass (2).npy
+Truth: POUR SOME MORE WATER INTO THE GLASS
+Pred:  POUR SOME MORE WATER INTO THE GLASS
+Match: True | WER: 0.00
+------------------------------
+Video: pour some more water into the glass.npy
+Truth: POUR SOME MORE WATER INTO THE GLASS
+Pred:  POUR SOME MORE WATER INTO THE GLASS
+Match: True | WER: 0.00
+------------------------------
+Video: pour.npy
+Truth: POUR SOME MORE WATER INTO THE GLASS
+Pred:  POUR SOME MORE WATER INTO THE GLASS
+Match: True | WER: 0.00
+------------------------------
+Video: bed (2).npy
+Truth: PREPARE THE BED
+Pred:  PREPARE THE BED
+Match: True | WER: 0.00
+------------------------------
+Video: bed (3).npy
+Truth: PREPARE THE BED
+Pred:  PREPARE THE BED
+Match: True | WER: 0.00
+------------------------------
+Video: bed (4).npy
+Truth: PREPARE THE BED
+Pred:  PREPARE THE BED
+Match: True | WER: 0.00
+------------------------------
+Video: bed (5).npy
+Truth: PREPARE THE BED
+Pred:  PREPARE THE BED
+Match: True | WER: 0.00
+------------------------------
+Video: bed.npy
+Truth: PREPARE THE BED
+Pred:  PREPARE THE BED
+Match: True | WER: 0.00
+------------------------------
+Video: prepare the bed (2).npy
+Truth: PREPARE THE BED
+Pred:  PREPARE THE BED
+Match: True | WER: 0.00
+------------------------------
+Video: prepare the bed.npy
+Truth: PREPARE THE BED
+Pred:  PREPARE THE BED
+Match: True | WER: 0.00
+------------------------------
+Video: serve (2).npy
+Truth: SERVE THE FOOD
+Pred:  SERVE THE FOOD
+Match: True | WER: 0.00
+------------------------------
+Video: serve (3).npy
+Truth: SERVE THE FOOD
+Pred:  SERVE THE FOOD
+Match: True | WER: 0.00
+------------------------------
+Video: serve (4).npy
+Truth: SERVE THE FOOD
+Pred:  SERVE THE FOOD
+Match: True | WER: 0.00
+------------------------------
+Video: serve (5).npy
+Truth: SERVE THE FOOD
+Pred:  SERVE THE FOOD
+Match: True | WER: 0.00
+------------------------------
+Video: serve 1.npy
+Truth: SERVE THE FOOD
+Pred:  SERVE THE FOOD
+Match: True | WER: 0.00
+------------------------------
+Video: serve food.npy
+Truth: SERVE THE FOOD
+Pred:  SERVE THE FOOD
+Match: True | WER: 0.00
+------------------------------
+Video: serve the food (2).npy
+Truth: SERVE THE FOOD
+Pred:  SERVE THE FOOD
+Match: True | WER: 0.00
+------------------------------
+Video: serve the food.npy
+Truth: SERVE THE FOOD
+Pred:  SERVE THE FOOD
+Match: True | WER: 0.00
+------------------------------
+Video: serve.npy
+Truth: SERVE THE FOOD
+Pred:  SERVE THE FOOD
+Match: True | WER: 0.00
+------------------------------
+Video: MVI_6498.npy
+Truth: SHALL WE GO OUTSIDE
+Pred:  SHALL WE GO OUTSIDE
+Match: True | WER: 0.00
+------------------------------
+Video: outside (2).npy
+Truth: SHALL WE GO OUTSIDE
+Pred:  SHALL WE GO OUTSIDE
+Match: True | WER: 0.00
+------------------------------
+Video: outside (3).npy
+Truth: SHALL WE GO OUTSIDE
+Pred:  SHALL WE GO OUTSIDE
+Match: True | WER: 0.00
+------------------------------
+Video: outside (4).npy
+Truth: SHALL WE GO OUTSIDE
+Pred:  SHALL WE GO OUTSIDE
+Match: True | WER: 0.00
+------------------------------
+Video: outside.npy
+Truth: SHALL WE GO OUTSIDE
+Pred:  SHALL WE GO OUTSIDE
+Match: True | WER: 0.00
+------------------------------
+Video: shall we go outside (2).npy
+Truth: SHALL WE GO OUTSIDE
+Pred:  SHALL WE GO OUTSIDE
+Match: True | WER: 0.00
+------------------------------
+Video: shall we go outside.npy
+Truth: SHALL WE GO OUTSIDE
+Pred:  SHALL WE GO OUTSIDE
+Match: True | WER: 0.00
+------------------------------
+Video: softly (2).npy
+Truth: SPEAK SOFTLY
+Pred:  SPEAK SOFTLY
+Match: True | WER: 0.00
+------------------------------
+Video: softly (3).npy
+Truth: SPEAK SOFTLY
+Pred:  SPEAK SOFTLY
+Match: True | WER: 0.00
+------------------------------
+Video: softly (4).npy
+Truth: SPEAK SOFTLY
+Pred:  SPEAK SOFTLY
+Match: True | WER: 0.00
+------------------------------
+Video: softly (5).npy
+Truth: SPEAK SOFTLY
+Pred:  SPEAK SOFTLY
+Match: True | WER: 0.00
+------------------------------
+Video: softly 1.npy
+Truth: SPEAK SOFTLY
+Pred:  SPEAK SOFTLY
+Match: True | WER: 0.00
+------------------------------
+Video: softly.npy
+Truth: SPEAK SOFTLY
+Pred:  SPEAK SOFTLY
+Match: True | WER: 0.00
+------------------------------
+Video: speak softly (2).npy
+Truth: SPEAK SOFTLY
+Pred:  SPEAK SOFTLY
+Match: True | WER: 0.00
+------------------------------
+Video: speak softly.npy
+Truth: SPEAK SOFTLY
+Pred:  SPEAK SOFTLY
+Match: True | WER: 0.00
+------------------------------
+Video: Take care (2).npy
+Truth: TAKE CARE OF YOURSELF
+Pred:  TAKE CARE OF YOURSELF
+Match: True | WER: 0.00
+------------------------------
+Video: take care (3).npy
+Truth: TAKE CARE OF YOURSELF
+Pred:  TAKE CARE OF YOURSELF
+Match: True | WER: 0.00
+------------------------------
+Video: take care (4).npy
+Truth: TAKE CARE OF YOURSELF
+Pred:  TAKE CARE OF YOURSELF
+Match: True | WER: 0.00
+------------------------------
+Video: take care (5).npy
+Truth: TAKE CARE OF YOURSELF
+Pred:  TAKE CARE OF YOURSELF
+Match: True | WER: 0.00
+------------------------------
+Video: take care of yourself (2).npy
+Truth: TAKE CARE OF YOURSELF
+Pred:  TAKE CARE OF YOURSELF
+Match: True | WER: 0.00
+------------------------------
+Video: take care of yourself.npy
+Truth: TAKE CARE OF YOURSELF
+Pred:  TAKE CARE OF YOURSELF
+Match: True | WER: 0.00
+------------------------------
+Video: take care.npy
+Truth: TAKE CARE OF YOURSELF
+Pred:  TAKE CARE OF YOURSELF
+Match: True | WER: 0.00
+------------------------------
+Video: tell me truth (2).npy
+Truth: TELL ME TRUTH
+Pred:  TELL ME TRUTH
+Match: True | WER: 0.00
+------------------------------
+Video: tell me truth.npy
+Truth: TELL ME TRUTH
+Pred:  TELL ME TRUTH
+Match: True | WER: 0.00
+------------------------------
+Video: truth (2).npy
+Truth: TELL ME TRUTH
+Pred:  TELL ME TRUTH
+Match: True | WER: 0.00
+------------------------------
+Video: truth (3).npy
+Truth: TELL ME TRUTH
+Pred:  TELL ME TRUTH
+Match: True | WER: 0.00
+------------------------------
+Video: truth (4).npy
+Truth: TELL ME TRUTH
+Pred:  TELL ME TRUTH
+Match: True | WER: 0.00
+------------------------------
+Video: truth.npy
+Truth: TELL ME TRUTH
+Pred:  TELL ME TRUTH
+Match: True | WER: 0.00
+------------------------------
+Video: thank you so much (1).npy
+Truth: THANK YOU SO MUCH
+Pred:  THANK YOU SO MUCH
+Match: True | WER: 0.00
+------------------------------
+Video: thank you so much (3).npy
+Truth: THANK YOU SO MUCH
+Pred:  THANK YOU SO MUCH
+Match: True | WER: 0.00
+------------------------------
+Video: thank you so much (4).npy
+Truth: THANK YOU SO MUCH
+Pred:  THANK YOU SO MUCH
+Match: True | WER: 0.00
+------------------------------
+Video: thank you so much (5).npy
+Truth: THANK YOU SO MUCH
+Pred:  THANK YOU SO MUCH
+Match: True | WER: 0.00
+------------------------------
+Video: thank you so much (6).npy
+Truth: THANK YOU SO MUCH
+Pred:  THANK YOU SO MUCH
+Match: True | WER: 0.00
+------------------------------
+Video: thank you so much (7).npy
+Truth: THANK YOU SO MUCH
+Pred:  THANK YOU SO MUCH
+Match: True | WER: 0.00
+------------------------------
+Video: thank you so much (8).npy
+Truth: THANK YOU SO MUCH
+Pred:  THANK YOU SO MUCH
+Match: True | WER: 0.00
+------------------------------
+Video: MVI_6106.npy
+Truth: THAT IS SO KIND OF YOU
+Pred:  THAT IS SO KIND OF YOU
+Match: True | WER: 0.00
+------------------------------
+Video: MVI_6396.npy
+Truth: THAT IS SO KIND OF YOU
+Pred:  THAT IS SO KIND OF YOU
+Match: True | WER: 0.00
+------------------------------
+Video: MVI_6540.npy
+Truth: THAT IS SO KIND OF YOU
+Pred:  THAT IS SO KIND OF YOU
+Match: True | WER: 0.00
+------------------------------
+Video: MVI_6722.npy
+Truth: THAT IS SO KIND OF YOU
+Pred:  THAT IS SO KIND OF YOU
+Match: True | WER: 0.00
+------------------------------
+Video: MVI_6850.npy
+Truth: THAT IS SO KIND OF YOU
+Pred:  THAT IS SO KIND OF YOU
+Match: True | WER: 0.00
+------------------------------
+Video: that is so kind of you (2).npy
+Truth: THAT IS SO KIND OF YOU
+Pred:  THAT IS SO KIND OF YOU
+Match: True | WER: 0.00
+------------------------------
+Video: that is so kind of you.npy
+Truth: THAT IS SO KIND OF YOU
+Pred:  THAT IS SO KIND OF YOU
+Match: True | WER: 0.00
+------------------------------
+Video: try to understand (2).npy
+Truth: TRY TO UNDERSTAND
+Pred:  TRY TO UNDERSTAND
+Match: True | WER: 0.00
+------------------------------
+Video: try to understand.npy
+Truth: TRY TO UNDERSTAND
+Pred:  TRY TO UNDERSTAND
+Match: True | WER: 0.00
+------------------------------
+Video: understand (2).npy
+Truth: TRY TO UNDERSTAND
+Pred:  TRY TO UNDERSTAND
+Match: True | WER: 0.00
+------------------------------
+Video: understand (3).npy
+Truth: TRY TO UNDERSTAND
+Pred:  TRY TO UNDERSTAND
+Match: True | WER: 0.00
+------------------------------
+Video: understand (4).npy
+Truth: TRY TO UNDERSTAND
+Pred:  TRY TO UNDERSTAND
+Match: True | WER: 0.00
+------------------------------
+Video: understand (5).npy
+Truth: TRY TO UNDERSTAND
+Pred:  TRY TO UNDERSTAND
+Match: True | WER: 0.00
+------------------------------
+Video: understand.npy
+Truth: TRY TO UNDERSTAND
+Pred:  TRY TO UNDERSTAND
+Match: True | WER: 0.00
+------------------------------
+Video: turn on (2).npy
+Truth: TURN ON LIGHT TURN OFF LIGHT
+Pred:  TURN ON LIGHT TURN OFF LIGHT
+Match: True | WER: 0.00
+------------------------------
+Video: turn on (3).npy
+Truth: TURN ON LIGHT TURN OFF LIGHT
+Pred:  TURN ON LIGHT TURN OFF LIGHT
+Match: True | WER: 0.00
+------------------------------
+Video: turn on (4).npy
+Truth: TURN ON LIGHT TURN OFF LIGHT
+Pred:  TURN ON LIGHT TURN OFF LIGHT
+Match: True | WER: 0.00
+------------------------------
+Video: turn on (5).npy
+Truth: TURN ON LIGHT TURN OFF LIGHT
+Pred:  TURN ON LIGHT TURN OFF LIGHT
+Match: True | WER: 0.00
+------------------------------
+Video: turn on light turn off light.npy
+Truth: TURN ON LIGHT TURN OFF LIGHT
+Pred:  TURN ON LIGHT TURN OFF LIGHT
+Match: True | WER: 0.00
+------------------------------
+Video: turn on lightturn off light.npy
+Truth: TURN ON LIGHT TURN OFF LIGHT
+Pred:  TURN ON LIGHT TURN OFF LIGHT
+Match: True | WER: 0.00
+------------------------------
+Video: turn on.npy
+Truth: TURN ON LIGHT TURN OFF LIGHT
+Pred:  TURN ON LIGHT TURN OFF LIGHT
+Match: True | WER: 0.00
+------------------------------
+Video: all.npy
+Truth: WE ARE ALL WITH YOU
+Pred:  WE ARE ALL WITH YOU
+Match: True | WER: 0.00
+------------------------------
+Video: MVI_6208.npy
+Truth: WE ARE ALL WITH YOU
+Pred:  WE ARE ALL WITH YOU
+Match: True | WER: 0.00
+------------------------------
+Video: MVI_6506.npy
+Truth: WE ARE ALL WITH YOU
+Pred:  WE ARE ALL WITH YOU
+Match: True | WER: 0.00
+------------------------------
+Video: MVI_6684.npy
+Truth: WE ARE ALL WITH YOU
+Pred:  WE ARE ALL WITH YOU
+Match: True | WER: 0.00
+------------------------------
+Video: MVI_6957.npy
+Truth: WE ARE ALL WITH YOU
+Pred:  WE ARE ALL WITH YOU
+Match: True | WER: 0.00
+------------------------------
+Video: we are all with you (2).npy
+Truth: WE ARE ALL WITH YOU
+Pred:  WE ARE ALL WITH YOU
+Match: True | WER: 0.00
+------------------------------
+Video: we are all with you.npy
+Truth: WE ARE ALL WITH YOU
+Pred:  WE ARE ALL WITH YOU
+Match: True | WER: 0.00
+------------------------------
+Video: shirt (2).npy
+Truth: WEAR THE SHIRT
+Pred:  WEAR THE SHIRT
+Match: True | WER: 0.00
+------------------------------
+Video: shirt (3).npy
+Truth: WEAR THE SHIRT
+Pred:  WEAR THE SHIRT
+Match: True | WER: 0.00
+------------------------------
+Video: shirt (4).npy
+Truth: WEAR THE SHIRT
+Pred:  WEAR THE SHIRT
+Match: True | WER: 0.00
+------------------------------
+Video: shirt (5).npy
+Truth: WEAR THE SHIRT
+Pred:  WEAR THE SHIRT
+Match: True | WER: 0.00
+------------------------------
+Video: shirt.npy
+Truth: WEAR THE SHIRT
+Pred:  WEAR THE SHIRT
+Match: True | WER: 0.00
+------------------------------
+Video: wear the shirt (2).npy
+Truth: WEAR THE SHIRT
+Pred:  WEAR THE SHIRT
+Match: True | WER: 0.00
+------------------------------
+Video: wear the shirt.npy
+Truth: WEAR THE SHIRT
+Pred:  WEAR THE SHIRT
+Match: True | WER: 0.00
+------------------------------
+Video: what are you doing (1).npy
+Truth: WHAT ARE YOU DOING
+Pred:  WHAT ARE YOU DOING
+Match: True | WER: 0.00
+------------------------------
+Video: what are you doing (3).npy
+Truth: WHAT ARE YOU DOING
+Pred:  WHAT ARE YOU DOING
+Match: True | WER: 0.00
+------------------------------
+Video: what are you doing (4).npy
+Truth: WHAT ARE YOU DOING
+Pred:  WHAT ARE YOU DOING
+Match: True | WER: 0.00
+------------------------------
+Video: what are you doing (5).npy
+Truth: WHAT ARE YOU DOING
+Pred:  WHAT ARE YOU DOING
+Match: True | WER: 0.00
+------------------------------
+Video: what are you doing (6).npy
+Truth: WHAT ARE YOU DOING
+Pred:  WHAT ARE YOU DOING
+Match: True | WER: 0.00
+------------------------------
+Video: what are you doing (7).npy
+Truth: WHAT ARE YOU DOING
+Pred:  WHAT ARE YOU DOING
+Match: True | WER: 0.00
+------------------------------
+Video: what are you doing (8).npy
+Truth: WHAT ARE YOU DOING
+Pred:  WHAT ARE YOU DOING
+Match: True | WER: 0.00
+------------------------------
+Video: MVI_6497.npy
+Truth: WHAT DID YOU TELL HIM
+Pred:  WHAT DID YOU TELL HIM
+Match: True | WER: 0.00
+------------------------------
+Video: tell him (2).npy
+Truth: WHAT DID YOU TELL HIM
+Pred:  WHAT DID YOU TELL HIM
+Match: True | WER: 0.00
+------------------------------
+Video: tell him (3).npy
+Truth: WHAT DID YOU TELL HIM
+Pred:  WHAT DID YOU TELL HIM
+Match: True | WER: 0.00
+------------------------------
+Video: tell him (4).npy
+Truth: WHAT DID YOU TELL HIM
+Pred:  WHAT DID YOU TELL HIM
+Match: True | WER: 0.00
+------------------------------
+Video: tell him.npy
+Truth: WHAT DID YOU TELL HIM
+Pred:  WHAT DID YOU TELL HIM
+Match: True | WER: 0.00
+------------------------------
+Video: what did you tell him (2).npy
+Truth: WHAT DID YOU TELL HIM
+Pred:  WHAT DID YOU TELL HIM
+Match: True | WER: 0.00
+------------------------------
+Video: what did you tell him.npy
+Truth: WHAT DID YOU TELL HIM
+Pred:  WHAT DID YOU TELL HIM
+Match: True | WER: 0.00
+------------------------------
+Video: what do you do (1).npy
+Truth: WHAT DO YOU DO
+Pred:  WHAT DO YOU DO
+Match: True | WER: 0.00
+------------------------------
+Video: what do you do (3).npy
+Truth: WHAT DO YOU DO
+Pred:  WHAT DO YOU DO
+Match: True | WER: 0.00
+------------------------------
+Video: what do you do (4).npy
+Truth: WHAT DO YOU DO
+Pred:  WHAT DO YOU DO
+Match: True | WER: 0.00
+------------------------------
+Video: what do you do (5).npy
+Truth: WHAT DO YOU DO
+Pred:  WHAT DO YOU DO
+Match: True | WER: 0.00
+------------------------------
+Video: what do you do (6).npy
+Truth: WHAT DO YOU DO
+Pred:  WHAT DO YOU DO
+Match: True | WER: 0.00
+------------------------------
+Video: what do you do (7).npy
+Truth: WHAT DO YOU DO
+Pred:  WHAT DO YOU DO
+Match: True | WER: 0.00
+------------------------------
+Video: what do you think (1).npy
+Truth: WHAT DO YOU THINK
+Pred:  WHAT DO YOU THINK
+Match: True | WER: 0.00
+------------------------------
+Video: what do you think (3).npy
+Truth: WHAT DO YOU THINK
+Pred:  WHAT DO YOU THINK
+Match: True | WER: 0.00
+------------------------------
+Video: what do you think (4).npy
+Truth: WHAT DO YOU THINK
+Pred:  WHAT DO YOU THINK
+Match: True | WER: 0.00
+------------------------------
+Video: what do you think (5).npy
+Truth: WHAT DO YOU THINK
+Pred:  WHAT DO YOU THINK
+Match: True | WER: 0.00
+------------------------------
+Video: what do you think (6).npy
+Truth: WHAT DO YOU THINK
+Pred:  WHAT DO YOU THINK
+Match: True | WER: 0.00
+------------------------------
+Video: what do you think (7).npy
+Truth: WHAT DO YOU THINK
+Pred:  WHAT DO YOU THINK
+Match: True | WER: 0.00
+------------------------------
+Video: what do you think (8).npy
+Truth: WHAT DO YOU THINK
+Pred:  WHAT DO YOU THINK
+Match: True | WER: 0.00
+------------------------------
+Video: become (2).npy
+Truth: WHAT DO YOU WANT TO BECOME
+Pred:  WHAT DO YOU WANT TO BECOME
+Match: True | WER: 0.00
+------------------------------
+Video: become (3).npy
+Truth: WHAT DO YOU WANT TO BECOME
+Pred:  WHAT DO YOU WANT TO BECOME
+Match: True | WER: 0.00
+------------------------------
+Video: become (4).npy
+Truth: WHAT DO YOU WANT TO BECOME
+Pred:  WHAT DO YOU WANT TO BECOME
+Match: True | WER: 0.00
+------------------------------
+Video: become (5).npy
+Truth: WHAT DO YOU WANT TO BECOME
+Pred:  WHAT DO YOU WANT TO BECOME
+Match: True | WER: 0.00
+------------------------------
+Video: become.npy
+Truth: WHAT DO YOU WANT TO BECOME
+Pred:  WHAT DO YOU WANT TO BECOME
+Match: True | WER: 0.00
+------------------------------
+Video: what do you want to become (2).npy
+Truth: WHAT DO YOU WANT TO BECOME
+Pred:  WHAT DO YOU WANT TO BECOME
+Match: True | WER: 0.00
+------------------------------
+Video: what do you want to become.npy
+Truth: WHAT DO YOU WANT TO BECOME
+Pred:  WHAT DO YOU WANT TO BECOME
+Match: True | WER: 0.00
+------------------------------
+Video: happen.npy
+Truth: WHAT HAPPENED
+Pred:  WHAT HAPPENED
+Match: True | WER: 0.00
+------------------------------
+Video: happened (2).npy
+Truth: WHAT HAPPENED
+Pred:  WHAT HAPPENED
+Match: True | WER: 0.00
+------------------------------
+Video: happened (3).npy
+Truth: WHAT HAPPENED
+Pred:  WHAT HAPPENED
+Match: True | WER: 0.00
+------------------------------
+Video: happened.npy
+Truth: WHAT HAPPENED
+Pred:  WHAT HAPPENED
+Match: True | WER: 0.00
+------------------------------
+Video: MVI_6495.npy
+Truth: WHAT HAPPENED
+Pred:  WHAT HAPPENED
+Match: True | WER: 0.00
+------------------------------
+Video: what happened.npy
+Truth: WHAT HAPPENED
+Pred:  WHAT HAPPENED
+Match: True | WER: 0.00
+------------------------------
+Video: MVI_6499.npy
+Truth: WHAT HAVE YOU PLANNED FOR YOUR CAREER
+Pred:  WHAT ONWARDS YOU WILL FOR HURT CAREER
+Match: False | WER: 0.43
+------------------------------
+Video: what have you planned for your career (2).npy
+Truth: WHAT HAVE YOU PLANNED FOR YOUR CAREER
+Pred:  WHAT HAVE YOU PLANNED FOR YOUR CAREER
+Match: True | WER: 0.00
+------------------------------
+Video: what have you planned for your career.npy
+Truth: WHAT HAVE YOU PLANNED FOR YOUR CAREER
+Pred:  WHAT HAVE YOU PLANNED FOR YOUR CAREER
+Match: True | WER: 0.00
+------------------------------
+Video: what is your phone number (1).npy
+Truth: WHAT IS YOUR PHONE NUMBER
+Pred:  WHAT IS YOUR PHONE NUMBER
+Match: True | WER: 0.00
+------------------------------
+Video: what is your phone number (3).npy
+Truth: WHAT IS YOUR PHONE NUMBER
+Pred:  WHAT IS YOUR PHONE NUMBER
+Match: True | WER: 0.00
+------------------------------
+Video: what is your phone number (4).npy
+Truth: WHAT IS YOUR PHONE NUMBER
+Pred:  WHAT IS YOUR PHONE NUMBER
+Match: True | WER: 0.00
+------------------------------
+Video: what is your phone number (5).npy
+Truth: WHAT IS YOUR PHONE NUMBER
+Pred:  WHAT IS YOUR PHONE NUMBER
+Match: True | WER: 0.00
+------------------------------
+Video: what is your phone number (6).npy
+Truth: WHAT IS YOUR PHONE NUMBER
+Pred:  WHAT IS YOUR PHONE NUMBER
+Match: True | WER: 0.00
+------------------------------
+Video: what is your phone number (7).npy
+Truth: WHAT IS YOUR PHONE NUMBER
+Pred:  WHAT IS YOUR PHONE NUMBER
+Match: True | WER: 0.00
+------------------------------
+Video: what is your phone number (8).npy
+Truth: WHAT IS YOUR PHONE NUMBER
+Pred:  WHAT IS YOUR PHONE NUMBER
+Match: True | WER: 0.00
+------------------------------
+Video: what you want (1).npy
+Truth: WHAT YOU WANT
+Pred:  WHAT YOU WANT
+Match: True | WER: 0.00
+------------------------------
+Video: what you want (3).npy
+Truth: WHAT YOU WANT
+Pred:  WHAT YOU WANT
+Match: True | WER: 0.00
+------------------------------
+Video: what you want (4).npy
+Truth: WHAT YOU WANT
+Pred:  WHAT YOU WANT
+Match: True | WER: 0.00
+------------------------------
+Video: what you want (5).npy
+Truth: WHAT YOU WANT
+Pred:  WHAT YOU WANT
+Match: True | WER: 0.00
+------------------------------
+Video: what you want (6).npy
+Truth: WHAT YOU WANT
+Pred:  WHAT YOU WANT
+Match: True | WER: 0.00
+------------------------------
+Video: what you want (7).npy
+Truth: WHAT YOU WANT
+Pred:  WHAT YOU WANT
+Match: True | WER: 0.00
+------------------------------
+Video: what you want (8).npy
+Truth: WHAT YOU WANT
+Pred:  WHAT YOU WANT
+Match: True | WER: 0.00
+------------------------------
+Video: leave (2).npy
+Truth: WHEN WILL THE TRAIN LEAVE
+Pred:  WHEN WILL THE TRAIN LEAVE
+Match: True | WER: 0.00
+------------------------------
+Video: leave (3).npy
+Truth: WHEN WILL THE TRAIN LEAVE
+Pred:  WHEN WILL THE TRAIN LEAVE
+Match: True | WER: 0.00
+------------------------------
+Video: leave (4).npy
+Truth: WHEN WILL THE TRAIN LEAVE
+Pred:  WHEN WILL THE TRAIN LEAVE
+Match: True | WER: 0.00
+------------------------------
+Video: leave (5).npy
+Truth: WHEN WILL THE TRAIN LEAVE
+Pred:  WHEN WILL THE TRAIN LEAVE
+Match: True | WER: 0.00
+------------------------------
+Video: leave.npy
+Truth: WHEN WILL THE TRAIN LEAVE
+Pred:  WHEN WILL THE TRAIN LEAVE
+Match: True | WER: 0.00
+------------------------------
+Video: when will the train leave (2).npy
+Truth: WHEN WILL THE TRAIN LEAVE
+Pred:  WHEN WILL THE TRAIN LEAVE
+Match: True | WER: 0.00
+------------------------------
+Video: when will the train leave.npy
+Truth: WHEN WILL THE TRAIN LEAVE
+Pred:  WHEN WILL THE TRAIN LEAVE
+Match: True | WER: 0.00
+------------------------------
+Video: where are you from (1).npy
+Truth: WHERE ARE YOU FROM
+Pred:  WHERE ARE YOU FROM
+Match: True | WER: 0.00
+------------------------------
+Video: where are you from (3).npy
+Truth: WHERE ARE YOU FROM
+Pred:  WHERE ARE YOU FROM
+Match: True | WER: 0.00
+------------------------------
+Video: where are you from (4).npy
+Truth: WHERE ARE YOU FROM
+Pred:  WHERE ARE YOU FROM
+Match: True | WER: 0.00
+------------------------------
+Video: where are you from (5).npy
+Truth: WHERE ARE YOU FROM
+Pred:  WHERE ARE YOU FROM
+Match: True | WER: 0.00
+------------------------------
+Video: where are you from (6).npy
+Truth: WHERE ARE YOU FROM
+Pred:  WHERE ARE YOU FROM
+Match: True | WER: 0.00
+------------------------------
+Video: where are you from (7).npy
+Truth: WHERE ARE YOU FROM
+Pred:  WHERE ARE YOU FROM
+Match: True | WER: 0.00
+------------------------------
+Video: college school (2).npy
+Truth: WHICH COLLEGESCHOOL ARE YOU FROM
+Pred:  WHICH COLLEGESCHOOL ARE YOU FROM
+Match: True | WER: 0.00
+------------------------------
+Video: college school (3).npy
+Truth: WHICH COLLEGESCHOOL ARE YOU FROM
+Pred:  WHICH COLLEGESCHOOL ARE YOU FROM
+Match: True | WER: 0.00
+------------------------------
+Video: college school.npy
+Truth: WHICH COLLEGESCHOOL ARE YOU FROM
+Pred:  WHICH COLLEGESCHOOL ARE YOU FROM
+Match: True | WER: 0.00
+------------------------------
+Video: school college (2).npy
+Truth: WHICH COLLEGESCHOOL ARE YOU FROM
+Pred:  WHICH COLLEGESCHOOL ARE YOU FROM
+Match: True | WER: 0.00
+------------------------------
+Video: school college.npy
+Truth: WHICH COLLEGESCHOOL ARE YOU FROM
+Pred:  WHICH COLLEGESCHOOL ARE YOU FROM
+Match: True | WER: 0.00
+------------------------------
+Video: which collegeschool are you from (2).npy
+Truth: WHICH COLLEGESCHOOL ARE YOU FROM
+Pred:  WHICH COLLEGESCHOOL ARE YOU FROM
+Match: True | WER: 0.00
+------------------------------
+Video: which collegeschool are you from.npy
+Truth: WHICH COLLEGESCHOOL ARE YOU FROM
+Pred:  WHICH COLLEGESCHOOL ARE YOU FROM
+Match: True | WER: 0.00
+------------------------------
+Video: who are you (1).npy
+Truth: WHO ARE YOU
+Pred:  WHO ARE YOU
+Match: True | WER: 0.00
+------------------------------
+Video: who are you (3).npy
+Truth: WHO ARE YOU
+Pred:  WHO ARE YOU
+Match: True | WER: 0.00
+------------------------------
+Video: who are you (4).npy
+Truth: WHO ARE YOU
+Pred:  WHO ARE YOU
+Match: True | WER: 0.00
+------------------------------
+Video: who are you (5).npy
+Truth: WHO ARE YOU
+Pred:  WHO ARE YOU
+Match: True | WER: 0.00
+------------------------------
+Video: who are you (6).npy
+Truth: WHO ARE YOU
+Pred:  WHO ARE YOU
+Match: True | WER: 0.00
+------------------------------
+Video: who are you (7).npy
+Truth: WHO ARE YOU
+Pred:  WHO ARE YOU
+Match: True | WER: 0.00
+------------------------------
+Video: who are you (8).npy
+Truth: WHO ARE YOU
+Pred:  WHO ARE YOU
+Match: True | WER: 0.00
+------------------------------
+Video: angry (2).npy
+Truth: WHY ARE YOU ANGRY
+Pred:  WHY ARE YOU ANGRY
+Match: True | WER: 0.00
+------------------------------
+Video: angry (3).npy
+Truth: WHY ARE YOU ANGRY
+Pred:  WHY ARE YOU ANGRY
+Match: True | WER: 0.00
+------------------------------
+Video: angry (4).npy
+Truth: WHY ARE YOU ANGRY
+Pred:  WHY ARE YOU ANGRY
+Match: True | WER: 0.00
+------------------------------
+Video: angry (5).npy
+Truth: WHY ARE YOU ANGRY
+Pred:  WHY ARE YOU ANGRY
+Match: True | WER: 0.00
+------------------------------
+Video: angry.npy
+Truth: WHY ARE YOU ANGRY
+Pred:  WHY ARE YOU ANGRY
+Match: True | WER: 0.00
+------------------------------
+Video: why are you angry (2).npy
+Truth: WHY ARE YOU ANGRY
+Pred:  WHY ARE YOU ANGRY
+Match: True | WER: 0.00
+------------------------------
+Video: why are you angry.npy
+Truth: WHY ARE YOU ANGRY
+Pred:  WHY ARE YOU ANGRY
+Match: True | WER: 0.00
+------------------------------
+Video: crying (2).npy
+Truth: WHY ARE YOU CRYING
+Pred:  WHY ARE YOU CRYING
+Match: True | WER: 0.00
+------------------------------
+Video: crying (3).npy
+Truth: WHY ARE YOU CRYING
+Pred:  WHY ARE YOU CRYING
+Match: True | WER: 0.00
+------------------------------
+Video: crying (4).npy
+Truth: WHY ARE YOU CRYING
+Pred:  WHY ARE YOU CRYING
+Match: True | WER: 0.00
+------------------------------
+Video: crying (5).npy
+Truth: WHY ARE YOU CRYING
+Pred:  WHY ARE YOU CRYING
+Match: True | WER: 0.00
+------------------------------
+Video: crying.npy
+Truth: WHY ARE YOU CRYING
+Pred:  WHY ARE YOU CRYING
+Match: True | WER: 0.00
+------------------------------
+Video: why are you crying (2).npy
+Truth: WHY ARE YOU CRYING
+Pred:  WHY ARE YOU CRYING
+Match: True | WER: 0.00
+------------------------------
+Video: why are you crying.npy
+Truth: WHY ARE YOU CRYING
+Pred:  WHY ARE YOU CRYING
+Match: True | WER: 0.00
+------------------------------
+Video: disappointed (2).npy
+Truth: WHY ARE YOU DISAPPOINTED
+Pred:  WHY ARE YOU DISAPPOINTED
+Match: True | WER: 0.00
+------------------------------
+Video: disappointed (3).npy
+Truth: WHY ARE YOU DISAPPOINTED
+Pred:  WHY ARE YOU DISAPPOINTED
+Match: True | WER: 0.00
+------------------------------
+Video: disappointed (4).npy
+Truth: WHY ARE YOU DISAPPOINTED
+Pred:  WHY ARE YOU DISAPPOINTED
+Match: True | WER: 0.00
+------------------------------
+Video: disappointed (5).npy
+Truth: WHY ARE YOU DISAPPOINTED
+Pred:  WHY ARE YOU DISAPPOINTED
+Match: True | WER: 0.00
+------------------------------
+Video: disappointed.npy
+Truth: WHY ARE YOU DISAPPOINTED
+Pred:  WHY ARE YOU DISAPPOINTED
+Match: True | WER: 0.00
+------------------------------
+Video: why are you disappointed (2).npy
+Truth: WHY ARE YOU DISAPPOINTED
+Pred:  WHY ARE YOU DISAPPOINTED
+Match: True | WER: 0.00
+------------------------------
+Video: why are you disappointed.npy
+Truth: WHY ARE YOU DISAPPOINTED
+Pred:  WHY ARE YOU DISAPPOINTED
+Match: True | WER: 0.00
+------------------------------
+Video: bad (2).npy
+Truth: YOU ARE BAD
+Pred:  YOU ARE BAD
+Match: True | WER: 0.00
+------------------------------
+Video: bad (3).npy
+Truth: YOU ARE BAD
+Pred:  YOU ARE BAD
+Match: True | WER: 0.00
+------------------------------
+Video: bad (4).npy
+Truth: YOU ARE BAD
+Pred:  YOU ARE BAD
+Match: True | WER: 0.00
+------------------------------
+Video: bad (5).npy
+Truth: YOU ARE BAD
+Pred:  YOU ARE BAD
+Match: True | WER: 0.00
+------------------------------
+Video: bad 1.npy
+Truth: YOU ARE BAD
+Pred:  YOU ARE BAD
+Match: True | WER: 0.00
+------------------------------
+Video: bad.npy
+Truth: YOU ARE BAD
+Pred:  YOU ARE BAD
+Match: True | WER: 0.00
+------------------------------
+Video: you are bad (2).npy
+Truth: YOU ARE BAD
+Pred:  YOU ARE BAD
+Match: True | WER: 0.00
+------------------------------
+Video: you are bad.npy
+Truth: YOU ARE BAD
+Pred:  YOU ARE BAD
+Match: True | WER: 0.00
+------------------------------
+Video: good (2).npy
+Truth: YOU ARE GOOD
+Pred:  YOU ARE GOOD
+Match: True | WER: 0.00
+------------------------------
+Video: good (3).npy
+Truth: YOU ARE GOOD
+Pred:  YOU ARE GOOD
+Match: True | WER: 0.00
+------------------------------
+Video: good (4).npy
+Truth: YOU ARE GOOD
+Pred:  YOU ARE GOOD
+Match: True | WER: 0.00
+------------------------------
+Video: good (5).npy
+Truth: YOU ARE GOOD
+Pred:  YOU ARE GOOD
+Match: True | WER: 0.00
+------------------------------
+Video: good.npy
+Truth: YOU ARE GOOD
+Pred:  YOU ARE GOOD
+Match: True | WER: 0.00
+------------------------------
+Video: you are good (2).npy
+Truth: YOU ARE GOOD
+Pred:  YOU ARE GOOD
+Match: True | WER: 0.00
+------------------------------
+Video: you are good.npy
+Truth: YOU ARE GOOD
+Pred:  YOU ARE GOOD
+Match: True | WER: 0.00
+------------------------------
+Video: welcome (2).npy
+Truth: YOU ARE WELCOME
+Pred:  YOU ARE WELCOME
+Match: True | WER: 0.00
+------------------------------
+Video: welcome (3).npy
+Truth: YOU ARE WELCOME
+Pred:  YOU ARE WELCOME
+Match: True | WER: 0.00
+------------------------------
+Video: welcome (4).npy
+Truth: YOU ARE WELCOME
+Pred:  YOU ARE WELCOME
+Match: True | WER: 0.00
+------------------------------
+Video: welcome (5).npy
+Truth: YOU ARE WELCOME
+Pred:  YOU ARE WELCOME
+Match: True | WER: 0.00
+------------------------------
+Video: welcome.npy
+Truth: YOU ARE WELCOME
+Pred:  YOU ARE WELCOME
+Match: True | WER: 0.00
+------------------------------
+Video: you are welcome (2).npy
+Truth: YOU ARE WELCOME
+Pred:  YOU ARE WELCOME
+Match: True | WER: 0.00
+------------------------------
+Video: you are welcome.npy
+Truth: YOU ARE WELCOME
+Pred:  YOU ARE WELCOME
+Match: True | WER: 0.00
+------------------------------
+Video: can do (2).npy
+Truth: YOU CAN DO IT
+Pred:  YOU CAN DO IT
+Match: True | WER: 0.00
+------------------------------
+Video: can do (3).npy
+Truth: YOU CAN DO IT
+Pred:  YOU CAN DO IT
+Match: True | WER: 0.00
+------------------------------
+Video: can do (4).npy
+Truth: YOU CAN DO IT
+Pred:  YOU CAN DO IT
+Match: True | WER: 0.00
+------------------------------
+Video: can do (5).npy
+Truth: YOU CAN DO IT
+Pred:  YOU CAN DO IT
+Match: True | WER: 0.00
+------------------------------
+Video: can do.npy
+Truth: YOU CAN DO IT
+Pred:  YOU CAN DO IT
+Match: True | WER: 0.00
+------------------------------
+Video: you can do it (2).npy
+Truth: YOU CAN DO IT
+Pred:  YOU CAN DO IT
+Match: True | WER: 0.00
+------------------------------
+Video: you can do it.npy
+Truth: YOU CAN DO IT
+Pred:  YOU CAN DO IT
+Match: True | WER: 0.00
+------------------------------
+Video: care.npy
+Truth: YOU DO ANYTHING I DO NOT CARE
+Pred:  YOU DO ANYTHING I DO NOT CARE
+Match: True | WER: 0.00
+------------------------------
+Video: donotcare.npy
+Truth: YOU DO ANYTHING I DO NOT CARE
+Pred:  YOU DO ANYTHING I DO NOT CARE
+Match: True | WER: 0.00
+------------------------------
+Video: dont care (2).npy
+Truth: YOU DO ANYTHING I DO NOT CARE
+Pred:  YOU DO ANYTHING I DO NOT CARE
+Match: True | WER: 0.00
+------------------------------
+Video: dont care.npy
+Truth: YOU DO ANYTHING I DO NOT CARE
+Pred:  YOU DO ANYTHING I DO NOT CARE
+Match: True | WER: 0.00
+------------------------------
+Video: you do anything, i do not care (2).npy
+Truth: YOU DO ANYTHING I DO NOT CARE
+Pred:  YOU DO ANYTHING I DO NOT CARE
+Match: True | WER: 0.00
+------------------------------
+Video: you do anything, i do not care.npy
+Truth: YOU DO ANYTHING I DO NOT CARE
+Pred:  YOU DO ANYTHING I DO NOT CARE
+Match: True | WER: 0.00
+------------------------------
+Video: medicine (2).npy
+Truth: YOU NEED A MEDICINE TAKE THIS ONE
+Pred:  WHY NEED A MEDICINE TAKE THIS ONE
+Match: False | WER: 0.14
+------------------------------
+Video: medicine (3).npy
+Truth: YOU NEED A MEDICINE TAKE THIS ONE
+Pred:  YOU NEED A MEDICINE TAKE THIS ONE
+Match: True | WER: 0.00
+------------------------------
+Video: medicine (4).npy
+Truth: YOU NEED A MEDICINE TAKE THIS ONE
+Pred:  YOU NEED A MEDICINE TAKE THIS ONE
+Match: True | WER: 0.00
+------------------------------
+Video: medicine (5).npy
+Truth: YOU NEED A MEDICINE TAKE THIS ONE
+Pred:  YOU NEED A MEDICINE TAKE THIS ONE
+Match: True | WER: 0.00
+------------------------------
+Video: medicine.npy
+Truth: YOU NEED A MEDICINE TAKE THIS ONE
+Pred:  YOU NEED A MEDICINE TAKE THIS ONE
+Match: True | WER: 0.00
+------------------------------
+Video: you need a medicine, take this one..npy
+Truth: YOU NEED A MEDICINE TAKE THIS ONE
+Pred:  YOU NEED A MEDICINE TAKE THIS ONE
+Match: True | WER: 0.00
+------------------------------
+Video: you need a medicine, take this one.npy
+Truth: YOU NEED A MEDICINE TAKE THIS ONE
+Pred:  YOU NEED A MEDICINE TAKE THIS ONE
+Match: True | WER: 0.00
+------------------------------

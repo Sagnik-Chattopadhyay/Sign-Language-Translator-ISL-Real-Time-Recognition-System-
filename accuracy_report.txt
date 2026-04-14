@@ -1,0 +1,3 @@
+Sentence Accuracy: 25.62%
+Average WER: 41.14%
+Total Samples: 687
